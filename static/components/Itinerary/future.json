@@ -1,38 +1,168 @@
 {
-    "2023-04-25": [
-        {
-            "kind": "VL",
-            "n": 11,
-            "title": "Virtual Lesson",
-            "date": "2023-04-25",
-            "deadline": "2023-04-25",
-            "links": {
-                "": "/virtual-classes/VL11.html"
-            }
-        }
-    ],
-    "2023-04-26": [],
-    "2023-04-27": [
+    "2023-06-26": [
         {
             "kind": "CL",
-            "n": 10,
-            "title": "Final Review",
-            "date": "2023-04-27",
+            "n": 0,
+            "title": "Welcome to COMP110",
+            "date": "2023-06-26",
             "deadline": "None",
             "links": {
-                "Lecture Video": "https://youtube.com/live/VK7f6wxntH8?feature=share",
-                "Lecture Slides": "/static/slides/CL10.pdf",
-                "Practice Problem": "/resources/practice/sp23/plane-practice.html"
+                "Zoom Link for Section 1 Lecture": "https://unc.zoom.us/j/92779372364",
+                "Zoom Link for Section 2 Lecture": "https://unc.zoom.us/j/99823016635"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 0,
+            "title": "Syllabus and Support (Due Wednesday 6/28)",
+            "date": "2023-06-26",
+            "deadline": "2023-06-28",
+            "links": {
+                "1. Read the Syllabus": "/resources/syllabus.html",
+                "2. Read Quiz Expectations": "/resources/quiz-expectations.html",
+                "3. Read Support Resources": "/support",
+                "4. Complete Lesson 00 Responses on Gradescope": "https://www.gradescope.com/"
             }
         }
     ],
-    "2023-04-28": [],
-    "2023-05-02": [
+    "2023-06-27": [
+        {
+            "kind": "EX",
+            "n": 0,
+            "title": "Hello World (Due Monday 7/3)",
+            "date": "2023-06-27",
+            "deadline": "2023-07-03",
+            "links": {
+                "EX00 - Hello, World": "/exercises/ex00_hello_world.html"
+            }
+        },
+        {
+            "kind": "CL",
+            "n": 1,
+            "title": "An Introduction to Coding",
+            "date": "2023-06-27",
+            "deadline": "None",
+            "links": {
+                "Lecture Recording": "https://youtu.be/Zhy49y7KOMQ",
+                "Lecture Slides": "/static/slides/LS01The-Ideas-Behind-Coding.pdf"
+            }
+        }
+    ],
+    "2023-06-28": [],
+    "2023-06-29": [
+        {
+            "kind": "QZ",
+            "n": 0,
+            "title": "Quiz 0",
+            "date": "2023-06-29",
+            "deadline": "2023-06-29",
+            "links": {}
+        },
+        {
+            "kind": "LS",
+            "n": 1,
+            "title": "while Loop Statements",
+            "date": "2023-06-29",
+            "deadline": "2023-06-29",
+            "links": {
+                "Video": "https://youtu.be/lgf1RYjo9I4",
+                "Assignment": "https://gradescope.com"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 2,
+            "title": "bool Operators: not, and, or",
+            "date": "2023-06-29",
+            "deadline": "2023-06-29",
+            "links": {
+                "Video": "https://youtu.be/_nruixZpLdQ",
+                "Assignment": "https://gradescope.com"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 3,
+            "title": "Unicode, Emoji, Escape Sequences, and f-Strings",
+            "date": "2023-06-29",
+            "deadline": "2023-06-29",
+            "links": {
+                "Reading": "https://23s.comp110.com/lessons/strings.html",
+                "Assignment": "https://gradescope.com"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 1,
+            "title": "One-shot Wordle (Due Friday 7/14)",
+            "date": "2023-06-29",
+            "deadline": "2023-07-14",
+            "links": {
+                "": "/exercises/ex02.html"
+            }
+        }
+    ],
+    "2023-06-30": [],
+    "2023-07-01": [],
+    "2023-07-02": [],
+    "2023-07-03": [
+        {
+            "kind": "QZ",
+            "n": 1,
+            "title": "Quiz 1",
+            "date": "2023-07-03",
+            "deadline": "2023-07-03",
+            "links": {}
+        }
+    ],
+    "2023-07-04": [],
+    "2023-07-05": [],
+    "2023-07-06": [],
+    "2023-07-07": [],
+    "2023-07-08": [],
+    "2023-07-09": [],
+    "2023-07-10": [],
+    "2023-07-11": [],
+    "2023-07-12": [],
+    "2023-07-13": [],
+    "2023-07-14": [],
+    "2023-07-15": [],
+    "2023-07-16": [],
+    "2023-07-17": [],
+    "2023-07-18": [
+        {
+            "kind": "QZ",
+            "n": 2,
+            "title": "Quiz 2",
+            "date": "2023-07-18",
+            "deadline": "2023-07-18",
+            "links": {}
+        }
+    ],
+    "2023-07-19": [],
+    "2023-07-20": [],
+    "2023-07-21": [],
+    "2023-07-22": [],
+    "2023-07-23": [],
+    "2023-07-24": [],
+    "2023-07-25": [
+        {
+            "kind": "QZ",
+            "n": 3,
+            "title": "Quiz 3",
+            "date": "2023-07-25",
+            "deadline": "2023-07-25",
+            "links": {}
+        }
+    ],
+    "2023-07-26": [],
+    "2023-07-27": [],
+    "2023-07-31": [
         {
             "kind": "FN",
             "n": 0,
             "title": "Final @ 8:00AM",
-            "date": "2023-05-02",
+            "date": "2023-07-31",
             "deadline": "None",
             "links": {
                 "Practice Problems": "/resources/practice/sp23/final-worksheet.html",
