@@ -1,0 +1,44 @@
+{
+    "2023-04-25": [
+        {
+            "kind": "VL",
+            "n": 11,
+            "title": "Virtual Lesson",
+            "date": "2023-04-25",
+            "deadline": "2023-04-25",
+            "links": {
+                "": "/virtual-classes/VL11.html"
+            }
+        }
+    ],
+    "2023-04-26": [],
+    "2023-04-27": [
+        {
+            "kind": "CL",
+            "n": 10,
+            "title": "Final Review",
+            "date": "2023-04-27",
+            "deadline": "None",
+            "links": {
+                "Lecture Video": "https://youtube.com/live/VK7f6wxntH8?feature=share",
+                "Lecture Slides": "/static/slides/CL10.pdf",
+                "Practice Problem": "/resources/practice/sp23/plane-practice.html"
+            }
+        }
+    ],
+    "2023-04-28": [],
+    "2023-05-02": [
+        {
+            "kind": "FN",
+            "n": 0,
+            "title": "Final @ 8:00AM",
+            "date": "2023-05-02",
+            "deadline": "None",
+            "links": {
+                "Practice Problems": "/resources/practice/sp23/final-worksheet.html",
+                "Review Sessions Info": "/resources/practice/sp23/finals-review-sesh.html",
+                "Makeup Final Info": "/resources/final-makeup.html"
+            }
+        }
+    ]
+}

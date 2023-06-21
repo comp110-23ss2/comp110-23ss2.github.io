@@ -1,0 +1,665 @@
+{
+    "2023-01-09": [],
+    "2023-01-10": [
+        {
+            "kind": "CL",
+            "n": 0,
+            "title": "Welcome to COMP110",
+            "date": "2023-01-10",
+            "deadline": "None",
+            "links": {
+                "Zoom Link for Section 1 Lecture": "https://unc.zoom.us/j/92779372364",
+                "Zoom Link for Section 2 Lecture": "https://unc.zoom.us/j/99823016635"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 0,
+            "title": "Syllabus and Support (Due Thursday 1/12)",
+            "date": "2023-01-10",
+            "deadline": "2023-01-12",
+            "links": {
+                "1. Read the Syllabus": "/resources/syllabus.html",
+                "2. Read Quiz Expectations": "/resources/quiz-expectations.html",
+                "3. Read Support Resources": "/support",
+                "4. Complete Lesson 00 Responses on Gradescope": "https://www.gradescope.com/"
+            }
+        }
+    ],
+    "2023-01-11": [],
+    "2023-01-12": [
+        {
+            "kind": "EX",
+            "n": 0,
+            "title": "Hello World (Due Wednesday 1/18)",
+            "date": "2023-01-12",
+            "deadline": "2023-01-18",
+            "links": {
+                "EX00 - Hello, World": "/exercises/ex00_hello_world.html"
+            }
+        },
+        {
+            "kind": "CL",
+            "n": 1,
+            "title": "An Introduction to Coding",
+            "date": "2023-01-12",
+            "deadline": "None",
+            "links": {
+                "Lecture Recording": "https://youtu.be/Zhy49y7KOMQ",
+                "Lecture Slides": "/static/slides/LS01The-Ideas-Behind-Coding.pdf"
+            }
+        }
+    ],
+    "2023-01-13": [],
+    "2023-01-14": [],
+    "2023-01-15": [],
+    "2023-01-16": [],
+    "2023-01-17": [
+        {
+            "kind": "VL",
+            "n": 0,
+            "title": "Virtual Lesson",
+            "date": "2023-01-17",
+            "deadline": "2023-01-17",
+            "links": {
+                "": "/virtual-classes/VL00.html"
+            }
+        }
+    ],
+    "2023-01-18": [],
+    "2023-01-19": [
+        {
+            "kind": "CL",
+            "n": 2,
+            "title": "Conditionals and Evaluating Expressions",
+            "date": "2023-01-19",
+            "deadline": "None",
+            "links": {
+                "Lecture Video": "https://youtube.com/live/CgvK2uUuWcg?feature=share",
+                "Lecture Slides": "/static/slides/CL02-Conditionals.pdf"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 1,
+            "title": "Chardle - Input, Variables, and Conditionals (Due Monday 1/30)",
+            "date": "2023-01-19",
+            "deadline": "2023-01-30",
+            "links": {
+                "Exercise Instructions": "/exercises/ex01.html",
+                "Video on Counters": "https://youtu.be/_H7rrC2WyYA"
+            }
+        }
+    ],
+    "2023-01-20": [],
+    "2023-01-21": [],
+    "2023-01-22": [],
+    "2023-01-23": [],
+    "2023-01-24": [
+        {
+            "kind": "VL",
+            "n": 1,
+            "title": "Virtual Lesson",
+            "date": "2023-01-24",
+            "deadline": "2023-01-24",
+            "links": {
+                "": "/virtual-classes/VL01.html"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 0,
+            "title": "Environment Diagrams Practice",
+            "date": "2023-01-24",
+            "deadline": "2023-01-24",
+            "links": {
+                "Video": "https://youtu.be/6qyIB-A2FHs",
+                "Assignment": "https://www.gradescope.com/"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 1,
+            "title": "Environment Diagrams Practice with Conditionals",
+            "date": "2023-01-24",
+            "deadline": "2023-01-24",
+            "links": {
+                "Video": "https://youtu.be/ILN9KEAHOqc",
+                "Assignment": "https://www.gradescope.com/"
+            }
+        }
+    ],
+    "2023-01-25": [],
+    "2023-01-26": [
+        {
+            "kind": "QZ",
+            "n": 0,
+            "title": "Quiz 0",
+            "date": "2023-01-26",
+            "deadline": "2023-01-26",
+            "links": {
+                "What to Expect": "/resources/quiz-expectations.html",
+                "Practice Problems": "/resources/practice/sp23/quiz0-worksheet.html",
+                "Covered Topics: LS00-LS05, CL00-02": "",
+                "Review Session - Recording (Passcode: 0dm=4?dd)": "https://unc.zoom.us/rec/share/4UK570bt64GmVwhmdNaQryFEjK-83GazSvG19LnipMUA-LJ-hngBGBNOD8cR-2Sw.BsL-mqxSX14B4TVU?startTime=1674686878000"
+            }
+        }
+    ],
+    "2023-01-27": [],
+    "2023-01-28": [],
+    "2023-01-29": [],
+    "2023-01-30": [],
+    "2023-01-31": [
+        {
+            "kind": "VL",
+            "n": 2,
+            "title": "Virtual Lesson",
+            "date": "2023-01-31",
+            "deadline": "2023-01-31",
+            "links": {
+                "": "/virtual-classes/VL02.html"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 2,
+            "title": "One-shot Wordle (Due Wednesday 2/15)",
+            "date": "2023-01-31",
+            "deadline": "2023-02-15",
+            "links": {
+                "": "/exercises/ex02.html"
+            }
+        },
+        {
+            "kind": "RD",
+            "n": 0,
+            "title": "Reading: The Ethical Algorithm Chapter on Gradescope (Due Monday 2/20)",
+            "date": "2023-01-31",
+            "deadline": "2023-02-20",
+            "links": {
+                "": "https://gradescope.com"
+            }
+        }
+    ],
+    "2023-02-01": [],
+    "2023-02-02": [
+        {
+            "kind": "CL",
+            "n": 3,
+            "title": "In-person: Practice with conditional and while statements and bool expressions",
+            "date": "2023-02-02",
+            "deadline": "None",
+            "links": {
+                "Lecture Video": "https://youtu.be/oEMzdGkVlNk"
+            }
+        }
+    ],
+    "2023-02-03": [],
+    "2023-02-04": [],
+    "2023-02-05": [],
+    "2023-02-06": [],
+    "2023-02-07": [
+        {
+            "kind": "VL",
+            "n": 3,
+            "title": "Virtual Lesson (Due Wednesday 2/8)",
+            "date": "2023-02-07",
+            "deadline": "2023-02-08",
+            "links": {
+                "Lesson Page": "/virtual-classes/VL03.html",
+                "Lesson Slides": "/lessons/LS9-11.pdf"
+            }
+        }
+    ],
+    "2023-02-08": [],
+    "2023-02-09": [
+        {
+            "kind": "CL",
+            "n": 4,
+            "title": "while Loops and Functions",
+            "date": "2023-02-09",
+            "deadline": "None",
+            "links": {
+                "Lecture Video": "https://youtube.com/live/1HjRbxf4LT0?feature=share",
+                "Lecture Slides": "/static/slides/CL04.pdf"
+            }
+        }
+    ],
+    "2023-02-10": [],
+    "2023-02-11": [],
+    "2023-02-12": [],
+    "2023-02-13": [],
+    "2023-02-14": [],
+    "2023-02-15": [],
+    "2023-02-16": [
+        {
+            "kind": "QZ",
+            "n": 1,
+            "title": "Quiz 1",
+            "date": "2023-02-16",
+            "deadline": "2023-02-16",
+            "links": {
+                "What to Expect": "/resources/quiz-expectations.html",
+                "Practice Problems": "/resources/practice/sp23/quiz1-worksheet.html",
+                "Covered Topics": "/qz01-concepts.html",
+                "Tues 8 am Review Session (Passcode: U@20cxtP)": "https://unc.zoom.us/rec/share/Y0m0L6-NgU6zGv4E3I1RD85l2Hb1w_5Z85WnCueXYVdVZHNfU6HvNz8fg0SkV4K8.XzWZ8Mh-QIzJEPY1",
+                "Tues 2 pm Review Session (Passcode: RzYiU8K%)": "https://unc.zoom.us/rec/share/XtOXp44crurYVcznkwjFoToIeIcr1JWLfJXWZ2qPSdz5lD0O_7jJsaRJOdDodq7K.CaGEzjzSEGe_rhKv",
+                "Wed 5 pm Review Session (Passcode: VWrx7j&T)": "https://unc.zoom.us/rec/share/lTJp9Tzh7L3JiEUTLCLbhCWk_v0dJ1sVupba8H4bEIDK-jd5tgb5h3N5yzVzH-vn.h7BmSE3JpHysyD2p"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 3,
+            "title": "Structured Wordle (Due Wednesday 2/22)",
+            "date": "2023-02-16",
+            "deadline": "2023-02-22",
+            "links": {
+                "": "/exercises/ex03.html"
+            }
+        }
+    ],
+    "2023-02-17": [],
+    "2023-02-18": [],
+    "2023-02-19": [],
+    "2023-02-20": [],
+    "2023-02-21": [
+        {
+            "kind": "VL",
+            "n": 4,
+            "title": "Virtual Lesson (Due Wednesday 2/22)",
+            "date": "2023-02-21",
+            "deadline": "2023-02-22",
+            "links": {
+                "": "/virtual-classes/VL04.html"
+            }
+        }
+    ],
+    "2023-02-22": [],
+    "2023-02-23": [
+        {
+            "kind": "EX",
+            "n": 4,
+            "title": "List Utils (Due Wednesday 3/1)",
+            "date": "2023-02-23",
+            "deadline": "2023-03-01",
+            "links": {
+                "": "/exercises/ex04.html"
+            }
+        },
+        {
+            "kind": "CL",
+            "n": 5,
+            "title": "Practice with Lists",
+            "date": "2023-02-23",
+            "deadline": "None",
+            "links": {
+                "Lecture Video": "https://youtube.com/live/mD7esU8D8_U?feature=share",
+                "Lecture Slides": "/static/slides/CL05-lists.pdf"
+            }
+        }
+    ],
+    "2023-02-24": [],
+    "2023-02-25": [],
+    "2023-02-26": [],
+    "2023-02-27": [],
+    "2023-02-28": [
+        {
+            "kind": "VL",
+            "n": 5,
+            "title": "Virtual Lesson",
+            "date": "2023-02-28",
+            "deadline": "2023-02-28",
+            "links": {
+                "": "/virtual-classes/VL05.html"
+            }
+        }
+    ],
+    "2023-03-01": [],
+    "2023-03-02": [
+        {
+            "kind": "CL",
+            "n": 6,
+            "title": "For loops",
+            "date": "2023-03-02",
+            "deadline": "None",
+            "links": {
+                "Lecture Recording": "https://youtube.com/live/kpcRl37g6mI?feature=share",
+                "Live Stream": "https://youtube.com/live/KXdS8omuRbo?feature=share",
+                "Lecture Slides": "/static/slides/CL06.pdf"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 2,
+            "title": "for ... in ... loops practice (Due Sunday 3/5)",
+            "date": "2023-03-02",
+            "deadline": "2023-03-05",
+            "links": {
+                "": "/lessons/cl07-forloops1.html"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 3,
+            "title": "for ... in range(...) loops practice (Due Sunday 3/5)",
+            "date": "2023-03-02",
+            "deadline": "2023-03-05",
+            "links": {
+                "": "/lessons/cl07-forloops2.html"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 5,
+            "title": "List Utils + Unit Tests (Due Wednesday 3/8)",
+            "date": "2023-03-02",
+            "deadline": "2023-03-08",
+            "links": {
+                "": "/exercises/ex05.html"
+            }
+        }
+    ],
+    "2023-03-03": [],
+    "2023-03-04": [],
+    "2023-03-05": [],
+    "2023-03-06": [],
+    "2023-03-07": [
+        {
+            "kind": "VL",
+            "n": 6,
+            "title": "Virtual Lesson",
+            "date": "2023-03-07",
+            "deadline": "2023-03-07",
+            "links": {
+                "": "/virtual-classes/VL06.html"
+            }
+        }
+    ],
+    "2023-03-08": [],
+    "2023-03-09": [
+        {
+            "kind": "CL",
+            "n": 7,
+            "title": "Practice with Scope and Dictionaries",
+            "date": "2023-03-09",
+            "deadline": "None",
+            "links": {
+                "Lecture Video": "https://youtube.com/live/WRUa7ITM5GI?feature=share",
+                "Lecture Slides": "/static/slides/CL07.pdf"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 4,
+            "title": "Dictionary Practice (Due Monday 3/20)",
+            "date": "2023-03-09",
+            "deadline": "2023-03-20",
+            "links": {
+                "": "/lessons/cq04-zip.html"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 6,
+            "title": "Choose Your Own Adventure (Due Wednesday 3/22)",
+            "date": "2023-03-09",
+            "deadline": "2023-03-22",
+            "links": {
+                "": "/exercises/ex06.html"
+            }
+        },
+        {
+            "kind": "RD",
+            "n": 1,
+            "title": "Reading: Weapons of Math Destruction (Due Wednesday 3/29)",
+            "date": "2023-03-09",
+            "deadline": "2023-03-29",
+            "links": {
+                "": "https://gradescope.com"
+            }
+        }
+    ],
+    "2023-03-10": [],
+    "2023-03-11": [],
+    "2023-03-12": [],
+    "2023-03-13": [],
+    "2023-03-14": [],
+    "2023-03-15": [],
+    "2023-03-16": [],
+    "2023-03-17": [],
+    "2023-03-18": [],
+    "2023-03-19": [],
+    "2023-03-20": [],
+    "2023-03-21": [
+        {
+            "kind": "VL",
+            "n": 7,
+            "title": "Virtual Lesson",
+            "date": "2023-03-21",
+            "deadline": "2023-03-21",
+            "links": {
+                "": "/virtual-classes/VL07.html"
+            }
+        }
+    ],
+    "2023-03-22": [],
+    "2023-03-23": [
+        {
+            "kind": "QZ",
+            "n": 2,
+            "title": "Quiz 2",
+            "date": "2023-03-23",
+            "deadline": "2023-03-23",
+            "links": {
+                "Covered Topics": "/qz02-concepts.html",
+                "Practice Problems": "/resources/practice/sp23/quiz2-worksheet.html",
+                "Review Session Recording (Passcode:4!612rDc)": "https://unc.zoom.us/rec/share/GD6VwInpzdNuXRo5GeDu2N_3e90ch_rjaw9bjf3SuLO-kX-mMGUV_xlsp2i2qMsB.FnFIr-Ny3DTlRg6n"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 7,
+            "title": "Dictionary Utilities (Due Wednesday 3/29)",
+            "date": "2023-03-23",
+            "deadline": "2023-03-29",
+            "links": {
+                "": "/exercises/ex07.html"
+            }
+        }
+    ],
+    "2023-03-24": [],
+    "2023-03-25": [],
+    "2023-03-26": [],
+    "2023-03-27": [],
+    "2023-03-28": [
+        {
+            "kind": "VL",
+            "n": 8,
+            "title": "Virtual Lesson",
+            "date": "2023-03-28",
+            "deadline": "2023-03-28",
+            "links": {
+                "": "/virtual-classes/VL08.html"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 5,
+            "title": "Row-Oriented Memory Diagram (Due Wednesday 3/29)",
+            "date": "2023-03-28",
+            "deadline": "2023-03-29",
+            "links": {
+                "": "https://www.gradescope.com/"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 6,
+            "title": "Column-Oriented Memory Diagram (Due Wednesday 3/29)",
+            "date": "2023-03-28",
+            "deadline": "2023-03-29",
+            "links": {
+                "": "https://www.gradescope.com/"
+            }
+        }
+    ],
+    "2023-03-29": [],
+    "2023-03-30": [
+        {
+            "kind": "CL",
+            "n": 8,
+            "title": "Quantified Shakespeare",
+            "date": "2023-03-30",
+            "deadline": "None",
+            "links": {
+                "Lecture Video": "https://youtube.com/live/a95cZlkkhT0?feature=share",
+                "Lecture Slides": "/static/slides/CL08.pdf",
+                "Data For Lecture": "https://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 8,
+            "title": "Data Wrangling (Due Monday 4/10)",
+            "date": "2023-03-30",
+            "deadline": "2023-04-10",
+            "links": {
+                "": "/exercises/ex08.html"
+            }
+        }
+    ],
+    "2023-03-31": [],
+    "2023-04-01": [],
+    "2023-04-02": [],
+    "2023-04-03": [],
+    "2023-04-04": [
+        {
+            "kind": "VL",
+            "n": 9,
+            "title": "Virtual Lesson",
+            "date": "2023-04-04",
+            "deadline": "2023-04-04",
+            "links": {
+                "": "/virtual-classes/VL09.html"
+            }
+        }
+    ],
+    "2023-04-05": [],
+    "2023-04-06": [],
+    "2023-04-07": [],
+    "2023-04-08": [],
+    "2023-04-09": [],
+    "2023-04-10": [],
+    "2023-04-11": [
+        {
+            "kind": "VL",
+            "n": 10,
+            "title": "Virtual Lesson (Due Wednesday 4/12)",
+            "date": "2023-04-11",
+            "deadline": "2023-04-12",
+            "links": {
+                "": "/virtual-classes/VL10.html"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 9,
+            "title": "River Simulation (Parts 1 and 2) (Due Thursday 4/20)",
+            "date": "2023-04-11",
+            "deadline": "2023-04-20",
+            "links": {
+                "": "/exercises/ex09_river.html"
+            }
+        }
+    ],
+    "2023-04-12": [],
+    "2023-04-13": [
+        {
+            "kind": "CL",
+            "n": 9,
+            "title": "Practice with OOP",
+            "date": "2023-04-13",
+            "deadline": "None",
+            "links": {
+                "Lecture Video": "https://youtube.com/live/-vZwf2HsLJY?feature=share",
+                "Lecture Slides": "/static/slides/CL09-OOP-Practice.pdf"
+            }
+        }
+    ],
+    "2023-04-14": [],
+    "2023-04-15": [],
+    "2023-04-16": [],
+    "2023-04-17": [],
+    "2023-04-18": [],
+    "2023-04-19": [],
+    "2023-04-20": [
+        {
+            "kind": "QZ",
+            "n": 3,
+            "title": "Quiz 3",
+            "date": "2023-04-20",
+            "deadline": "2023-04-20",
+            "links": {
+                "Covered Topics": "/qz03-concepts.html",
+                "Practice Problems": "/resources/practice/sp23/quiz3-worksheet.html",
+                "Review Session (Passcode: Y2v^oeT@)": "https://unc.zoom.us/rec/share/vc-H8ylTXchEaYy1RLuxz6Sirm_9OHlOH-OhYOU5OuVF4HonhBqunI4uAUbcnSQz.85C5MKhMU-3xEA0-"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 10,
+            "title": "Simpy (Due Wednesday 4/26)",
+            "date": "2023-04-20",
+            "deadline": "2023-04-26",
+            "links": {
+                "": "/exercises/ex10.html"
+            }
+        }
+    ],
+    "2023-04-21": [],
+    "2023-04-22": [],
+    "2023-04-23": [],
+    "2023-04-24": [],
+    "2023-04-25": [
+        {
+            "kind": "VL",
+            "n": 11,
+            "title": "Virtual Lesson",
+            "date": "2023-04-25",
+            "deadline": "2023-04-25",
+            "links": {
+                "": "/virtual-classes/VL11.html"
+            }
+        }
+    ],
+    "2023-04-26": [],
+    "2023-04-27": [
+        {
+            "kind": "CL",
+            "n": 10,
+            "title": "Final Review",
+            "date": "2023-04-27",
+            "deadline": "None",
+            "links": {
+                "Lecture Video": "https://youtube.com/live/VK7f6wxntH8?feature=share",
+                "Lecture Slides": "/static/slides/CL10.pdf",
+                "Practice Problem": "/resources/practice/sp23/plane-practice.html"
+            }
+        }
+    ],
+    "2023-04-28": [],
+    "2023-05-02": [
+        {
+            "kind": "FN",
+            "n": 0,
+            "title": "Final @ 8:00AM",
+            "date": "2023-05-02",
+            "deadline": "None",
+            "links": {
+                "Practice Problems": "/resources/practice/sp23/final-worksheet.html",
+                "Review Sessions Info": "/resources/practice/sp23/finals-review-sesh.html",
+                "Makeup Final Info": "/resources/final-makeup.html"
+            }
+        }
+    ]
+}
