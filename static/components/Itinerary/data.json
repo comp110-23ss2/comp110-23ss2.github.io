@@ -7,8 +7,7 @@
             "date": "2023-06-26",
             "deadline": "None",
             "links": {
-                "Zoom Link for Section 1 Lecture": "https://unc.zoom.us/j/92779372364",
-                "Zoom Link for Section 2 Lecture": "https://unc.zoom.us/j/99823016635"
+                "Zoom Link for Section 1 Lecture": "TODO"
             }
         },
         {
@@ -29,9 +28,9 @@
         {
             "kind": "EX",
             "n": 0,
-            "title": "Hello World (Due Monday 7/3)",
+            "title": "Hello World (Due Thursday 6/29)",
             "date": "2023-06-27",
-            "deadline": "2023-07-03",
+            "deadline": "2023-06-29",
             "links": {
                 "EX00 - Hello, World": "/exercises/ex00_hello_world.html"
             }
@@ -94,9 +93,9 @@
         {
             "kind": "EX",
             "n": 1,
-            "title": "One-shot Wordle (Due Friday 7/14)",
+            "title": "One-shot Wordle (Due Monday 7/10)",
             "date": "2023-06-29",
-            "deadline": "2023-07-14",
+            "deadline": "2023-07-10",
             "links": {
                 "": "/exercises/ex02.html"
             }
