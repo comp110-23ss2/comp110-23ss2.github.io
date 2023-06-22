@@ -65,7 +65,7 @@
             "date": "2023-06-27",
             "deadline": "2023-06-28",
             "links": {
-                "Complete Lesson": "https://www.youtube.com/watch?v=LB9wVRYF9tA&feature=youtu.be"
+                "": "https://www.youtube.com/watch?v=LB9wVRYF9tA&feature=youtu.be"
             }
         },
         {
@@ -75,7 +75,7 @@
             "date": "2023-06-27",
             "deadline": "2023-06-28",
             "links": {
-                "Complete Lesson": "https://www.youtube.com/watch?v=aMjlaAWp-sw"
+                "": "https://www.youtube.com/watch?v=aMjlaAWp-sw"
             }
         },
         {
@@ -85,7 +85,7 @@
             "date": "2023-06-27",
             "deadline": "2023-06-28",
             "links": {
-                "Complete Lesson": "https://www.youtube.com/watch?v=CA5-9qXNSqw"
+                "": "https://www.youtube.com/watch?v=CA5-9qXNSqw"
             }
         },
         {
@@ -95,7 +95,7 @@
             "date": "2023-06-27",
             "deadline": "2023-06-28",
             "links": {
-                "Complete Lesson": "/lessons/objects-data-types.html"
+                "": "/lessons/objects-data-types.html"
             }
         },
         {
@@ -105,7 +105,7 @@
             "date": "2023-06-27",
             "deadline": "2023-06-28",
             "links": {
-                "Complete Lesson": "/lessons/expressions.html"
+                "": "/lessons/expressions.html"
             }
         }
     ],
@@ -117,7 +117,7 @@
             "date": "2023-06-28",
             "deadline": "2023-06-29",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=ISP-9wkrlyM"
+                "": "https://www.youtube.com/watch?v=ISP-9wkrlyM"
             }
         },
         {
@@ -127,7 +127,7 @@
             "date": "2023-06-28",
             "deadline": "2023-06-29",
             "links": {
-                "Complete Challenge": "https://youtu.be/g8_OERDtJ8c"
+                "": "https://youtu.be/g8_OERDtJ8c"
             }
         },
         {
@@ -137,7 +137,7 @@
             "date": "2023-06-28",
             "deadline": "2023-06-29",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=wXoUw0scEsI"
+                "": "https://www.youtube.com/watch?v=wXoUw0scEsI"
             }
         },
         {
@@ -147,7 +147,7 @@
             "date": "2023-06-28",
             "deadline": "2023-06-29",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=Vfmuwx3vYKg"
+                "": "https://www.youtube.com/watch?v=Vfmuwx3vYKg"
             }
         },
         {
@@ -157,7 +157,7 @@
             "date": "2023-06-28",
             "deadline": "2023-06-30",
             "links": {
-                "Complete Lesson": "https://youtu.be/JP5oFPHw5zc"
+                "": "https://youtu.be/JP5oFPHw5zc"
             }
         },
         {
@@ -167,7 +167,7 @@
             "date": "2023-06-28",
             "deadline": "2023-06-29",
             "links": {
-                "Write-Up": "/resources/setup/os-update.html"
+                "": "/resources/setup/os-update.html"
             }
         }
     ],
@@ -179,7 +179,7 @@
             "date": "2023-06-29",
             "deadline": "2023-06-30",
             "links": {
-                "Complete Lesson": "https://youtu.be/pvpgvYlyfUU"
+                "": "https://youtu.be/pvpgvYlyfUU"
             }
         },
         {
@@ -189,7 +189,7 @@
             "date": "2023-06-29",
             "deadline": "2023-06-30",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=ruWo2zP9p4U"
+                "": "https://www.youtube.com/watch?v=ruWo2zP9p4U"
             }
         },
         {
@@ -199,7 +199,7 @@
             "date": "2023-06-29",
             "deadline": "2023-06-30",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=_Q9oBXDyciE"
+                "": "https://www.youtube.com/watch?v=_Q9oBXDyciE"
             }
         },
         {
@@ -209,7 +209,7 @@
             "date": "2023-06-29",
             "deadline": "2023-06-30",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=HYq9Zoigoc4"
+                "": "https://www.youtube.com/watch?v=HYq9Zoigoc4"
             }
         },
         {
@@ -219,7 +219,7 @@
             "date": "2023-06-29",
             "deadline": "2023-07-01",
             "links": {
-                "Complete Lesson": "/lessons/strings.html"
+                "": "/lessons/strings.html"
             }
         },
         {
@@ -229,7 +229,7 @@
             "date": "2023-06-29",
             "deadline": "2023-07-02",
             "links": {
-                "Write-Up": "/exercises/ex02.html"
+                "": "/exercises/ex02.html"
             }
         }
     ],
@@ -249,7 +249,7 @@
             "date": "2023-06-30",
             "deadline": "2023-07-01",
             "links": {
-                "Complete Lesson": "https://youtu.be/UheQNnstJE8"
+                "": "https://youtu.be/UheQNnstJE8"
             }
         },
         {
@@ -259,7 +259,7 @@
             "date": "2023-06-30",
             "deadline": "2023-07-01",
             "links": {
-                "Complete Lesson": "https://youtu.be/ihpN4LOqx8s"
+                "": "https://youtu.be/ihpN4LOqx8s"
             }
         },
         {
@@ -269,7 +269,7 @@
             "date": "2023-06-30",
             "deadline": "2023-07-01",
             "links": {
-                "Complete Lesson": "https://youtu.be/_swT3gKjDVg"
+                "": "https://youtu.be/_swT3gKjDVg"
             }
         }
     ],
@@ -283,7 +283,7 @@
             "date": "2023-07-03",
             "deadline": "2023-07-04",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=Mz7uP3Gyj8U"
+                "": "https://www.youtube.com/watch?v=Mz7uP3Gyj8U"
             }
         },
         {
@@ -293,7 +293,7 @@
             "date": "2023-07-03",
             "deadline": "2023-07-04",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=7pp8uJjpGKQ"
+                "": "https://www.youtube.com/watch?v=7pp8uJjpGKQ"
             }
         },
         {
@@ -303,7 +303,7 @@
             "date": "2023-07-03",
             "deadline": "2023-07-04",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=d7xamgcwV8U"
+                "": "https://www.youtube.com/watch?v=d7xamgcwV8U"
             }
         },
         {
@@ -313,7 +313,7 @@
             "date": "2023-07-03",
             "deadline": "2023-07-06",
             "links": {
-                "Write-Up": "/exercises/ex03.html"
+                "": "/exercises/ex03.html"
             }
         }
     ],
@@ -337,7 +337,7 @@
             "date": "2023-07-07",
             "deadline": "2023-07-08",
             "links": {
-                "Complete Lesson": "https://youtu.be/uGsgE_EKI4U"
+                "": "https://youtu.be/uGsgE_EKI4U"
             }
         },
         {
@@ -347,7 +347,7 @@
             "date": "2023-07-07",
             "deadline": "2023-07-08",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=Ns0ac_RhncI"
+                "": "https://www.youtube.com/watch?v=Ns0ac_RhncI"
             }
         },
         {
@@ -357,7 +357,7 @@
             "date": "2023-07-07",
             "deadline": "2023-07-08",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=-fwsbFlct4k"
+                "": "https://www.youtube.com/watch?v=-fwsbFlct4k"
             }
         },
         {
@@ -367,7 +367,7 @@
             "date": "2023-07-07",
             "deadline": "2023-07-08",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=njC-awGQ4dQ"
+                "": "https://www.youtube.com/watch?v=njC-awGQ4dQ"
             }
         },
         {
@@ -377,7 +377,7 @@
             "date": "2023-07-07",
             "deadline": "2023-07-11",
             "links": {
-                "Write-Up": "/exercises/ex05.html"
+                "": "/exercises/ex05.html"
             }
         }
     ],
@@ -391,7 +391,7 @@
             "date": "2023-07-10",
             "deadline": "2023-07-11",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=Gq4cWatsHKg"
+                "": "https://www.youtube.com/watch?v=Gq4cWatsHKg"
             }
         },
         {
@@ -401,7 +401,7 @@
             "date": "2023-07-10",
             "deadline": "2023-07-11",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=7UJyTgKUF5M"
+                "": "https://www.youtube.com/watch?v=7UJyTgKUF5M"
             }
         },
         {
@@ -411,7 +411,7 @@
             "date": "2023-07-10",
             "deadline": "2023-07-11",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=Cm9YzSV62k8"
+                "": "https://www.youtube.com/watch?v=Cm9YzSV62k8"
             }
         },
         {
@@ -421,7 +421,7 @@
             "date": "2023-07-10",
             "deadline": "2023-07-11",
             "links": {
-                "Complete Challenge": "https://youtu.be/n3FahRgDotQ"
+                "": "https://youtu.be/n3FahRgDotQ"
             }
         }
     ],
@@ -433,7 +433,7 @@
             "date": "2023-07-11",
             "deadline": "2023-07-12",
             "links": {
-                "Complete Lesson": "https://youtu.be/YPfFCD_RGK8"
+                "": "https://youtu.be/YPfFCD_RGK8"
             }
         },
         {
@@ -443,7 +443,7 @@
             "date": "2023-07-11",
             "deadline": "2023-07-12",
             "links": {
-                "Complete Lesson": "https://www.youtube.com/watch?v=2B8Nh3pJEFE"
+                "": "https://www.youtube.com/watch?v=2B8Nh3pJEFE"
             }
         },
         {
@@ -453,7 +453,7 @@
             "date": "2023-07-11",
             "deadline": "2023-07-12",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=WA2Qt_n8ZW4"
+                "": "https://www.youtube.com/watch?v=WA2Qt_n8ZW4"
             }
         }
     ],
@@ -473,7 +473,7 @@
             "date": "2023-07-12",
             "deadline": "2023-07-14",
             "links": {
-                "Complete Lesson": "https://www.youtube.com/watch?v=2B8Nh3pJEFE"
+                "": "https://www.youtube.com/watch?v=2B8Nh3pJEFE"
             }
         },
         {
@@ -483,7 +483,7 @@
             "date": "2023-07-12",
             "deadline": "2023-07-14",
             "links": {
-                "Write-Up": "/exercises/ex06.html"
+                "": "/exercises/ex06.html"
             }
         }
     ],
@@ -495,7 +495,7 @@
             "date": "2023-07-13",
             "deadline": "2023-07-14",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=drrrVHLv_Bg"
+                "": "https://www.youtube.com/watch?v=drrrVHLv_Bg"
             }
         },
         {
@@ -505,7 +505,7 @@
             "date": "2023-07-13",
             "deadline": "2023-07-14",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=uTc39ZXStP0"
+                "": "https://www.youtube.com/watch?v=uTc39ZXStP0"
             }
         }
     ],
@@ -517,7 +517,7 @@
             "date": "2023-07-14",
             "deadline": "2023-07-15",
             "links": {
-                "Complete Lesson": "https://youtu.be/HJgX1WWC26A"
+                "": "https://youtu.be/HJgX1WWC26A"
             }
         },
         {
@@ -527,7 +527,7 @@
             "date": "2023-07-14",
             "deadline": "2023-07-15",
             "links": {
-                "Complete Lesson": "https://youtu.be/z4ax7ilh-RY"
+                "": "https://youtu.be/z4ax7ilh-RY"
             }
         },
         {
@@ -537,7 +537,7 @@
             "date": "2023-07-14",
             "deadline": "2023-07-15",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=s5UkpdxbSiM"
+                "": "https://www.youtube.com/watch?v=s5UkpdxbSiM"
             }
         },
         {
@@ -547,7 +547,7 @@
             "date": "2023-07-14",
             "deadline": "2023-07-18",
             "links": {
-                "Write-Up": "/exercises/ex07.html"
+                "": "/exercises/ex07.html"
             }
         }
     ],
@@ -561,7 +561,7 @@
             "date": "2023-07-17",
             "deadline": "2023-07-18",
             "links": {
-                "Complete Lesson": "https://www.youtube.com/watch?v=_htZ8sB2qe8"
+                "": "https://www.youtube.com/watch?v=_htZ8sB2qe8"
             }
         }
     ],
@@ -573,7 +573,7 @@
             "date": "2023-07-18",
             "deadline": "2023-07-19",
             "links": {
-                "Complete Lesson": "https://www.youtube.com/watch?v=_htZ8sB2qe8"
+                "": "https://www.youtube.com/watch?v=_htZ8sB2qe8"
             }
         },
         {
@@ -583,7 +583,7 @@
             "date": "2023-07-18",
             "deadline": "2023-07-19",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=s5UkpdxbSiM"
+                "": "https://www.youtube.com/watch?v=s5UkpdxbSiM"
             }
         }
     ],
@@ -613,7 +613,7 @@
             "date": "2023-07-20",
             "deadline": "2023-07-21",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=nl4zwaffDYI"
+                "": "https://www.youtube.com/watch?v=nl4zwaffDYI"
             }
         },
         {
@@ -623,7 +623,7 @@
             "date": "2023-07-20",
             "deadline": "2023-07-21",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=yV1VjEx86fQ"
+                "": "https://www.youtube.com/watch?v=yV1VjEx86fQ"
             }
         },
         {
@@ -633,7 +633,7 @@
             "date": "2023-07-20",
             "deadline": "2023-07-21",
             "links": {
-                "Complete Lesson": "https://www.youtube.com/watch?v=yxDIEqm_K6c"
+                "": "https://www.youtube.com/watch?v=yxDIEqm_K6c"
             }
         },
         {
@@ -643,7 +643,7 @@
             "date": "2023-07-20",
             "deadline": "2023-07-21",
             "links": {
-                "Complete Lesson": "https://www.youtube.com/watch?v=JJLnGL-cShU&feature=youtu.be"
+                "": "https://www.youtube.com/watch?v=JJLnGL-cShU&feature=youtu.be"
             }
         }
     ],
@@ -655,7 +655,7 @@
             "date": "2023-07-21",
             "deadline": "2023-07-22",
             "links": {
-                "Complete Lesson": "https://www.youtube.com/watch?v=fmnMaN728RE&feature=youtu.be"
+                "": "https://www.youtube.com/watch?v=fmnMaN728RE&feature=youtu.be"
             }
         },
         {
@@ -665,7 +665,7 @@
             "date": "2023-07-21",
             "deadline": "2023-07-22",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=7cOEibFopjQ"
+                "": "https://www.youtube.com/watch?v=7cOEibFopjQ"
             }
         },
         {
@@ -675,7 +675,7 @@
             "date": "2023-07-21",
             "deadline": "2023-07-24",
             "links": {
-                "Write-Up": "/exercises/ex08.html"
+                "": "/exercises/ex08.html"
             }
         }
     ],
@@ -689,7 +689,7 @@
             "date": "2023-07-24",
             "deadline": "2023-07-25",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=XFynblkouZ4"
+                "": "https://www.youtube.com/watch?v=XFynblkouZ4"
             }
         },
         {
@@ -699,7 +699,7 @@
             "date": "2023-07-24",
             "deadline": "2023-07-25",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=f1bnbit3Rlo"
+                "": "https://www.youtube.com/watch?v=f1bnbit3Rlo"
             }
         },
         {
@@ -709,7 +709,7 @@
             "date": "2023-07-24",
             "deadline": "2023-07-25",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=YfprfyavgzY"
+                "": "https://www.youtube.com/watch?v=YfprfyavgzY"
             }
         }
     ],
@@ -721,7 +721,7 @@
             "date": "2023-07-25",
             "deadline": "2023-07-26",
             "links": {
-                "Complete Lesson": "https://www.youtube.com/watch?v=nVv7RDDtwdg"
+                "": "https://www.youtube.com/watch?v=nVv7RDDtwdg"
             }
         },
         {
@@ -731,7 +731,7 @@
             "date": "2023-07-25",
             "deadline": "2023-07-27",
             "links": {
-                "Write-Up": "/exercises/ex09.html"
+                "": "/exercises/ex09.html"
             }
         }
     ],
@@ -743,7 +743,7 @@
             "date": "2023-07-26",
             "deadline": "2023-07-27",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=tn5d3SxWWxc"
+                "": "https://www.youtube.com/watch?v=tn5d3SxWWxc"
             }
         },
         {
@@ -753,7 +753,7 @@
             "date": "2023-07-26",
             "deadline": "2023-07-27",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=qqJKcmPbgCY"
+                "": "https://www.youtube.com/watch?v=qqJKcmPbgCY"
             }
         },
         {
@@ -763,7 +763,7 @@
             "date": "2023-07-26",
             "deadline": "2023-07-27",
             "links": {
-                "Complete Challenge": "https://www.youtube.com/watch?v=SDZRv01oyVk"
+                "": "https://www.youtube.com/watch?v=SDZRv01oyVk"
             }
         },
         {
