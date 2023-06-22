@@ -7,155 +7,788 @@
             "date": "2023-06-26",
             "deadline": "None",
             "links": {
-                "Zoom Link for Section 1 Lecture": "TODO"
+                "Zoom Link for Class Lecture": "TODO"
             }
         },
         {
             "kind": "LS",
             "n": 0,
-            "title": "Syllabus and Support (Due Wednesday 6/28)",
+            "title": "Syllabus and Support (Due Tuesday 6/27)",
             "date": "2023-06-26",
-            "deadline": "2023-06-28",
+            "deadline": "2023-06-27",
             "links": {
                 "1. Read the Syllabus": "/resources/syllabus.html",
                 "2. Read Quiz Expectations": "/resources/quiz-expectations.html",
                 "3. Read Support Resources": "/support",
                 "4. Complete Lesson 00 Responses on Gradescope": "https://www.gradescope.com/"
             }
-        }
-    ],
-    "2023-06-27": [
+        },
         {
             "kind": "EX",
             "n": 0,
-            "title": "Hello World (Due Thursday 6/29)",
-            "date": "2023-06-27",
-            "deadline": "2023-06-29",
+            "title": "Hello World (Due Wednesday 6/28)",
+            "date": "2023-06-26",
+            "deadline": "2023-06-28",
             "links": {
+                "Software Setup (1/3)": "/resources/setup/os-update.html",
+                "Software Setup (2/3)": "/resources/setup/software.html",
+                "Software Setup (3/3)": "/resources/setup/workspace.html",
                 "EX00 - Hello, World": "/exercises/ex00_hello_world.html"
             }
         },
         {
-            "kind": "CL",
-            "n": 1,
-            "title": "An Introduction to Coding",
-            "date": "2023-06-27",
-            "deadline": "None",
+            "kind": "RD",
+            "n": 0,
+            "title": "Reading: Ethical Algorithms (Due Friday 7/7)",
+            "date": "2023-06-26",
+            "deadline": "2023-07-07",
             "links": {
-                "Lecture Recording": "https://youtu.be/Zhy49y7KOMQ",
-                "Lecture Slides": "/static/slides/LS01The-Ideas-Behind-Coding.pdf"
+                "See Gradescope": "https://gradescope.com"
+            }
+        },
+        {
+            "kind": "RD",
+            "n": 1,
+            "title": "Reading: Weapons of Math Destruction (Due Friday 7/14)",
+            "date": "2023-06-26",
+            "deadline": "2023-07-14",
+            "links": {
+                "See Gradescope": "https://gradescope.com"
             }
         }
     ],
-    "2023-06-28": [],
-    "2023-06-29": [
-        {
-            "kind": "QZ",
-            "n": 0,
-            "title": "Quiz 0",
-            "date": "2023-06-29",
-            "deadline": "2023-06-29",
-            "links": {}
-        },
+    "2023-06-27": [
         {
             "kind": "LS",
             "n": 1,
-            "title": "while Loop Statements",
-            "date": "2023-06-29",
-            "deadline": "2023-06-29",
+            "title": "Computing Systems - Processes, Shells, Kernels, and Hardware (Due Wednesday 6/28)",
+            "date": "2023-06-27",
+            "deadline": "2023-06-28",
             "links": {
-                "Video": "https://youtu.be/lgf1RYjo9I4",
-                "Assignment": "https://gradescope.com"
+                "Complete Lesson": "https://www.youtube.com/watch?v=LB9wVRYF9tA&feature=youtu.be"
             }
         },
         {
             "kind": "LS",
             "n": 2,
-            "title": "bool Operators: not, and, or",
-            "date": "2023-06-29",
-            "deadline": "2023-06-29",
+            "title": "Programs, Languages, and Interpreters (Due Wednesday 6/28)",
+            "date": "2023-06-27",
+            "deadline": "2023-06-28",
             "links": {
-                "Video": "https://youtu.be/_nruixZpLdQ",
-                "Assignment": "https://gradescope.com"
+                "Complete Lesson": "https://www.youtube.com/watch?v=aMjlaAWp-sw"
             }
         },
         {
             "kind": "LS",
             "n": 3,
-            "title": "Unicode, Emoji, Escape Sequences, and f-Strings",
-            "date": "2023-06-29",
+            "title": "VS Code Walkthrough (Due Wednesday 6/28)",
+            "date": "2023-06-27",
+            "deadline": "2023-06-28",
+            "links": {
+                "Complete Lesson": "https://www.youtube.com/watch?v=CA5-9qXNSqw"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 4,
+            "title": "Objects and Data Types (Due Wednesday 6/28)",
+            "date": "2023-06-27",
+            "deadline": "2023-06-28",
+            "links": {
+                "Complete Lesson": "/lessons/objects-data-types.html"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 5,
+            "title": "Expressions (Due Wednesday 6/28)",
+            "date": "2023-06-27",
+            "deadline": "2023-06-28",
+            "links": {
+                "Complete Lesson": "/lessons/expressions.html"
+            }
+        }
+    ],
+    "2023-06-28": [
+        {
+            "kind": "CQ",
+            "n": 0,
+            "title": "Practice with Numerical Expressions (Due Thursday 6/29)",
+            "date": "2023-06-28",
             "deadline": "2023-06-29",
             "links": {
-                "Reading": "https://23s.comp110.com/lessons/strings.html",
-                "Assignment": "https://gradescope.com"
+                "Complete Challenge": "https://www.youtube.com/watch?v=ISP-9wkrlyM"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 1,
+            "title": "Evaluating Relational Expressions (Due Thursday 6/29)",
+            "date": "2023-06-28",
+            "deadline": "2023-06-29",
+            "links": {
+                "Complete Challenge": "https://youtu.be/g8_OERDtJ8c"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 2,
+            "title": "User Input and Variables (Due Thursday 6/29)",
+            "date": "2023-06-28",
+            "deadline": "2023-06-29",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=wXoUw0scEsI"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 3,
+            "title": "Environment Diagrams (Due Thursday 6/29)",
+            "date": "2023-06-28",
+            "deadline": "2023-06-29",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=Vfmuwx3vYKg"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 6,
+            "title": "Conditional If/Else Statements (Due Friday 6/30)",
+            "date": "2023-06-28",
+            "deadline": "2023-06-30",
+            "links": {
+                "Complete Lesson": "https://youtu.be/JP5oFPHw5zc"
             }
         },
         {
             "kind": "EX",
             "n": 1,
-            "title": "One-shot Wordle (Due Monday 7/10)",
-            "date": "2023-06-29",
-            "deadline": "2023-07-10",
+            "title": "Chardle (Due Thursday 6/29)",
+            "date": "2023-06-28",
+            "deadline": "2023-06-29",
             "links": {
-                "": "/exercises/ex02.html"
+                "Write-Up": "/resources/setup/os-update.html"
             }
         }
     ],
-    "2023-06-30": [],
+    "2023-06-29": [
+        {
+            "kind": "LS",
+            "n": 7,
+            "title": "While-Loop Statements (Due Friday 6/30)",
+            "date": "2023-06-29",
+            "deadline": "2023-06-30",
+            "links": {
+                "Complete Lesson": "https://youtu.be/pvpgvYlyfUU"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 4,
+            "title": "Nested If/Then/Else (Due Friday 6/30)",
+            "date": "2023-06-29",
+            "deadline": "2023-06-30",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=ruWo2zP9p4U"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 5,
+            "title": "While Loops (Due Friday 6/30)",
+            "date": "2023-06-29",
+            "deadline": "2023-06-30",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=_Q9oBXDyciE"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 6,
+            "title": "Bool Operators (Due Friday 6/30)",
+            "date": "2023-06-29",
+            "deadline": "2023-06-30",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=HYq9Zoigoc4"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 8,
+            "title": "Advanced String Concepts (Due Saturday 7/1)",
+            "date": "2023-06-29",
+            "deadline": "2023-07-01",
+            "links": {
+                "Complete Lesson": "/lessons/strings.html"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 2,
+            "title": "One Shot Wordle (Due Sunday 7/2)",
+            "date": "2023-06-29",
+            "deadline": "2023-07-02",
+            "links": {
+                "Write-Up": "/exercises/ex02.html"
+            }
+        }
+    ],
+    "2023-06-30": [
+        {
+            "kind": "QZ",
+            "n": 0,
+            "title": "Quiz 0",
+            "date": "2023-06-30",
+            "deadline": "2023-06-30",
+            "links": {}
+        },
+        {
+            "kind": "LS",
+            "n": 9,
+            "title": "Introducing Functions (Due Saturday 7/1)",
+            "date": "2023-06-30",
+            "deadline": "2023-07-01",
+            "links": {
+                "Complete Lesson": "https://youtu.be/UheQNnstJE8"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 10,
+            "title": "Function Definition Syntax (Due Saturday 7/1)",
+            "date": "2023-06-30",
+            "deadline": "2023-07-01",
+            "links": {
+                "Complete Lesson": "https://youtu.be/ihpN4LOqx8s"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 11,
+            "title": "Functional Call Semantics and Memory Diagrams (Due Saturday 7/1)",
+            "date": "2023-06-30",
+            "deadline": "2023-07-01",
+            "links": {
+                "Complete Lesson": "https://youtu.be/_swT3gKjDVg"
+            }
+        }
+    ],
     "2023-07-01": [],
     "2023-07-02": [],
     "2023-07-03": [
         {
-            "kind": "QZ",
-            "n": 1,
-            "title": "Quiz 1",
+            "kind": "CQ",
+            "n": 7,
+            "title": "Nested While Loops (Due Tuesday 7/4)",
             "date": "2023-07-03",
-            "deadline": "2023-07-03",
-            "links": {}
+            "deadline": "2023-07-04",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=Mz7uP3Gyj8U"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 8,
+            "title": "Function Calls (Due Tuesday 7/4)",
+            "date": "2023-07-03",
+            "deadline": "2023-07-04",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=7pp8uJjpGKQ"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 9,
+            "title": "Function Calls, Main, f-Strings (Due Tuesday 7/4)",
+            "date": "2023-07-03",
+            "deadline": "2023-07-04",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=d7xamgcwV8U"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 3,
+            "title": "Structured Wordle (Due Thursday 7/6)",
+            "date": "2023-07-03",
+            "deadline": "2023-07-06",
+            "links": {
+                "Write-Up": "/exercises/ex03.html"
+            }
         }
     ],
     "2023-07-04": [],
     "2023-07-05": [],
-    "2023-07-06": [],
-    "2023-07-07": [],
+    "2023-07-06": [
+        {
+            "kind": "QZ",
+            "n": 1,
+            "title": "Quiz 1",
+            "date": "2023-07-06",
+            "deadline": "2023-07-06",
+            "links": {}
+        }
+    ],
+    "2023-07-07": [
+        {
+            "kind": "LS",
+            "n": 12,
+            "title": "Lists in Python (Due Saturday 7/8)",
+            "date": "2023-07-07",
+            "deadline": "2023-07-08",
+            "links": {
+                "Complete Lesson": "https://youtu.be/uGsgE_EKI4U"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 10,
+            "title": "Diagrams with References (Lists) (Due Saturday 7/8)",
+            "date": "2023-07-07",
+            "deadline": "2023-07-08",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=Ns0ac_RhncI"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 11,
+            "title": "Diagrams with List Arguments (Due Saturday 7/8)",
+            "date": "2023-07-07",
+            "deadline": "2023-07-08",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=-fwsbFlct4k"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 12,
+            "title": "Diagrams with List Return Values (Due Saturday 7/8)",
+            "date": "2023-07-07",
+            "deadline": "2023-07-08",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=njC-awGQ4dQ"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 4,
+            "title": "List Utility Functions (Due Tuesday 7/11)",
+            "date": "2023-07-07",
+            "deadline": "2023-07-11",
+            "links": {
+                "Write-Up": "/exercises/ex05.html"
+            }
+        }
+    ],
     "2023-07-08": [],
     "2023-07-09": [],
-    "2023-07-10": [],
-    "2023-07-11": [],
-    "2023-07-12": [],
-    "2023-07-13": [],
-    "2023-07-14": [],
-    "2023-07-15": [],
-    "2023-07-16": [],
-    "2023-07-17": [],
-    "2023-07-18": [
+    "2023-07-10": [
+        {
+            "kind": "CQ",
+            "n": 13,
+            "title": "Scopes: Global vs. Local (Due Tuesday 7/11)",
+            "date": "2023-07-10",
+            "deadline": "2023-07-11",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=Gq4cWatsHKg"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 14,
+            "title": "List References (Due Tuesday 7/11)",
+            "date": "2023-07-10",
+            "deadline": "2023-07-11",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=7UJyTgKUF5M"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 15,
+            "title": "List References Continued (Due Tuesday 7/11)",
+            "date": "2023-07-10",
+            "deadline": "2023-07-11",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=Cm9YzSV62k8"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 16,
+            "title": "Follow Along: Implementing and Testing Functions with Lists (Due Tuesday 7/11)",
+            "date": "2023-07-10",
+            "deadline": "2023-07-11",
+            "links": {
+                "Complete Challenge": "https://youtu.be/n3FahRgDotQ"
+            }
+        }
+    ],
+    "2023-07-11": [
+        {
+            "kind": "LS",
+            "n": 13,
+            "title": "For...In Loops (Due Wednesday 7/12)",
+            "date": "2023-07-11",
+            "deadline": "2023-07-12",
+            "links": {
+                "Complete Lesson": "https://youtu.be/YPfFCD_RGK8"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 14,
+            "title": "Dictionaries (Due Wednesday 7/12)",
+            "date": "2023-07-11",
+            "deadline": "2023-07-12",
+            "links": {
+                "Complete Lesson": "https://www.youtube.com/watch?v=2B8Nh3pJEFE"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 17,
+            "title": "Dictionary Practice (Due Wednesday 7/12)",
+            "date": "2023-07-11",
+            "deadline": "2023-07-12",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=WA2Qt_n8ZW4"
+            }
+        }
+    ],
+    "2023-07-12": [
         {
             "kind": "QZ",
             "n": 2,
             "title": "Quiz 2",
-            "date": "2023-07-18",
-            "deadline": "2023-07-18",
+            "date": "2023-07-12",
+            "deadline": "2023-07-12",
             "links": {}
+        },
+        {
+            "kind": "LS",
+            "n": 15,
+            "title": "Unit Testing Introduction (Due Friday 7/14)",
+            "date": "2023-07-12",
+            "deadline": "2023-07-14",
+            "links": {
+                "Complete Lesson": "https://www.youtube.com/watch?v=2B8Nh3pJEFE"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 5,
+            "title": "Dictionary Functions (Due Friday 7/14)",
+            "date": "2023-07-12",
+            "deadline": "2023-07-14",
+            "links": {
+                "Write-Up": "/exercises/ex06.html"
+            }
         }
     ],
-    "2023-07-19": [],
-    "2023-07-20": [],
-    "2023-07-21": [],
-    "2023-07-22": [],
-    "2023-07-23": [],
-    "2023-07-24": [],
-    "2023-07-25": [
+    "2023-07-13": [
+        {
+            "kind": "CQ",
+            "n": 18,
+            "title": "What's up with __name__? (Due Friday 7/14)",
+            "date": "2023-07-13",
+            "deadline": "2023-07-14",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=drrrVHLv_Bg"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 19,
+            "title": "Importing Modules with Python (Due Friday 7/14)",
+            "date": "2023-07-13",
+            "deadline": "2023-07-14",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=uTc39ZXStP0"
+            }
+        }
+    ],
+    "2023-07-14": [
+        {
+            "kind": "LS",
+            "n": 16,
+            "title": "Jupyter Notebooks (Due Saturday 7/15)",
+            "date": "2023-07-14",
+            "deadline": "2023-07-15",
+            "links": {
+                "Complete Lesson": "https://youtu.be/HJgX1WWC26A"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 17,
+            "title": "Readings CSV Files (Due Saturday 7/15)",
+            "date": "2023-07-14",
+            "deadline": "2023-07-15",
+            "links": {
+                "Complete Lesson": "https://youtu.be/z4ax7ilh-RY"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 20,
+            "title": "Row-Oriented vs. Column-Oriented Data Structure Compisitions (Due Saturday 7/15)",
+            "date": "2023-07-14",
+            "deadline": "2023-07-15",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=s5UkpdxbSiM"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 6,
+            "title": "Data Wrangling (Due Tuesday 7/18)",
+            "date": "2023-07-14",
+            "deadline": "2023-07-18",
+            "links": {
+                "Write-Up": "/exercises/ex07.html"
+            }
+        }
+    ],
+    "2023-07-15": [],
+    "2023-07-16": [],
+    "2023-07-17": [
+        {
+            "kind": "LS",
+            "n": 18,
+            "title": "Column Based Filtering (Due Tuesday 7/18)",
+            "date": "2023-07-17",
+            "deadline": "2023-07-18",
+            "links": {
+                "Complete Lesson": "https://www.youtube.com/watch?v=_htZ8sB2qe8"
+            }
+        }
+    ],
+    "2023-07-18": [
+        {
+            "kind": "LS",
+            "n": 19,
+            "title": "Introduction to OOP (Due Wednesday 7/19)",
+            "date": "2023-07-18",
+            "deadline": "2023-07-19",
+            "links": {
+                "Complete Lesson": "https://www.youtube.com/watch?v=_htZ8sB2qe8"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 21,
+            "title": "Tracing a Basic OOP Example in Memory (Due Wednesday 7/19)",
+            "date": "2023-07-18",
+            "deadline": "2023-07-19",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=s5UkpdxbSiM"
+            }
+        }
+    ],
+    "2023-07-19": [
         {
             "kind": "QZ",
             "n": 3,
             "title": "Quiz 3",
-            "date": "2023-07-25",
-            "deadline": "2023-07-25",
+            "date": "2023-07-19",
+            "deadline": "2023-07-19",
+            "links": {}
+        },
+        {
+            "kind": "EX",
+            "n": 7,
+            "title": "Another OOP (Due Friday 7/21)",
+            "date": "2023-07-19",
+            "deadline": "2023-07-21",
             "links": {}
         }
     ],
-    "2023-07-26": [],
-    "2023-07-27": [],
+    "2023-07-20": [
+        {
+            "kind": "CQ",
+            "n": 22,
+            "title": "Implementing a Pure Method & Mutable vs. Immutable Operations (Due Friday 7/21)",
+            "date": "2023-07-20",
+            "deadline": "2023-07-21",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=nl4zwaffDYI"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 23,
+            "title": "Diagramming with Multiple Classes (Due Friday 7/21)",
+            "date": "2023-07-20",
+            "deadline": "2023-07-21",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=yV1VjEx86fQ"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 20,
+            "title": "Magic Method (Due Friday 7/21)",
+            "date": "2023-07-20",
+            "deadline": "2023-07-21",
+            "links": {
+                "Complete Lesson": "https://www.youtube.com/watch?v=yxDIEqm_K6c"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 21,
+            "title": "Operator Overloading (Due Friday 7/21)",
+            "date": "2023-07-20",
+            "deadline": "2023-07-21",
+            "links": {
+                "Complete Lesson": "https://www.youtube.com/watch?v=JJLnGL-cShU&feature=youtu.be"
+            }
+        }
+    ],
+    "2023-07-21": [
+        {
+            "kind": "LS",
+            "n": 22,
+            "title": "Getting Started with EX08 (Due Saturday 7/22)",
+            "date": "2023-07-21",
+            "deadline": "2023-07-22",
+            "links": {
+                "Complete Lesson": "https://www.youtube.com/watch?v=fmnMaN728RE&feature=youtu.be"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 24,
+            "title": "Special Parameters (Due Saturday 7/22)",
+            "date": "2023-07-21",
+            "deadline": "2023-07-22",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=7cOEibFopjQ"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 8,
+            "title": "Simpy (Due Monday 7/24)",
+            "date": "2023-07-21",
+            "deadline": "2023-07-24",
+            "links": {
+                "Write-Up": "/exercises/ex08.html"
+            }
+        }
+    ],
+    "2023-07-22": [],
+    "2023-07-23": [],
+    "2023-07-24": [
+        {
+            "kind": "CQ",
+            "n": 25,
+            "title": "Diagram #1 - OOP Practice (Due Tuesday 7/25)",
+            "date": "2023-07-24",
+            "deadline": "2023-07-25",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=XFynblkouZ4"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 26,
+            "title": "Diagram #2 - OOP Practice (Due Tuesday 7/25)",
+            "date": "2023-07-24",
+            "deadline": "2023-07-25",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=f1bnbit3Rlo"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 27,
+            "title": "Diagram #3 - OOP Practice (Due Tuesday 7/25)",
+            "date": "2023-07-24",
+            "deadline": "2023-07-25",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=YfprfyavgzY"
+            }
+        }
+    ],
+    "2023-07-25": [
+        {
+            "kind": "LS",
+            "n": 23,
+            "title": "Introduction to Recursion (Due Wednesday 7/26)",
+            "date": "2023-07-25",
+            "deadline": "2023-07-26",
+            "links": {
+                "Complete Lesson": "https://www.youtube.com/watch?v=nVv7RDDtwdg"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 9,
+            "title": "Recursion: Linked List Utils (Due Thursday 7/27)",
+            "date": "2023-07-25",
+            "deadline": "2023-07-27",
+            "links": {
+                "Write-Up": "/exercises/ex09.html"
+            }
+        }
+    ],
+    "2023-07-26": [
+        {
+            "kind": "CQ",
+            "n": 28,
+            "title": "Diagram #1 - Recursive Function Call (Due Thursday 7/27)",
+            "date": "2023-07-26",
+            "deadline": "2023-07-27",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=tn5d3SxWWxc"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 29,
+            "title": "Diagram #2 - Linked List Processing with Recursive Functions (Due Thursday 7/27)",
+            "date": "2023-07-26",
+            "deadline": "2023-07-27",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=qqJKcmPbgCY"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 30,
+            "title": "Diagram #3 - Linked List Building with a Recursive Function (Due Thursday 7/27)",
+            "date": "2023-07-26",
+            "deadline": "2023-07-27",
+            "links": {
+                "Complete Challenge": "https://www.youtube.com/watch?v=SDZRv01oyVk"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 24,
+            "title": "NumPy and Pandas (Due Thursday 7/27)",
+            "date": "2023-07-26",
+            "deadline": "2023-07-27",
+            "links": {
+                "See Gradescope": "https://gradescope.com"
+            }
+        }
+    ],
+    "2023-07-27": [
+        {
+            "kind": "CL",
+            "n": 1,
+            "title": "LDOC Meeting!",
+            "date": "2023-07-27",
+            "deadline": "None",
+            "links": {
+                "Zoom Link for Class Lecture": "TODO"
+            }
+        }
+    ],
     "2023-07-31": [
         {
             "kind": "FN",
@@ -163,11 +796,7 @@
             "title": "Final @ 8:00AM",
             "date": "2023-07-31",
             "deadline": "None",
-            "links": {
-                "Practice Problems": "/resources/practice/sp23/final-worksheet.html",
-                "Review Sessions Info": "/resources/practice/sp23/finals-review-sesh.html",
-                "Makeup Final Info": "/resources/final-makeup.html"
-            }
+            "links": {}
         }
     ]
 }
