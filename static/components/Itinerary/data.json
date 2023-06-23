@@ -3,7 +3,7 @@
         {
             "kind": "CL",
             "n": 0,
-            "title": "Welcome to COMP110",
+            "title": "Welcome to COMP110!",
             "date": "2023-06-26",
             "deadline": "None",
             "links": {
@@ -153,9 +153,9 @@
         {
             "kind": "LS",
             "n": 6,
-            "title": "Conditional If/Else Statements (Due Friday 6/30)",
+            "title": "Conditional If/Else Statements (Due Thursday 6/29)",
             "date": "2023-06-28",
-            "deadline": "2023-06-30",
+            "deadline": "2023-06-29",
             "links": {
                 "": "https://youtu.be/JP5oFPHw5zc"
             }
@@ -167,7 +167,7 @@
             "date": "2023-06-28",
             "deadline": "2023-06-29",
             "links": {
-                "": "/resources/setup/os-update.html"
+                "": "/exercises/ex01.html"
             }
         }
     ],
@@ -299,7 +299,7 @@
         {
             "kind": "CQ",
             "n": 9,
-            "title": "Function Calls, Main, f-Strings (Due Tuesday 7/4)",
+            "title": "Function Calls, Main, and f-Strings (Due Tuesday 7/4)",
             "date": "2023-07-03",
             "deadline": "2023-07-04",
             "links": {
@@ -473,7 +473,7 @@
             "date": "2023-07-12",
             "deadline": "2023-07-14",
             "links": {
-                "": "https://www.youtube.com/watch?v=2B8Nh3pJEFE"
+                "": "https://youtu.be/VAdJybtia-4"
             }
         },
         {
@@ -483,7 +483,7 @@
             "date": "2023-07-12",
             "deadline": "2023-07-14",
             "links": {
-                "": "/exercises/ex06.html"
+                "": "/exercises/ex07.html"
             }
         }
     ],
@@ -533,7 +533,7 @@
         {
             "kind": "CQ",
             "n": 20,
-            "title": "Row-Oriented vs. Column-Oriented Data Structure Compisitions (Due Saturday 7/15)",
+            "title": "Row-Oriented vs. Column-Oriented Data Structure Compositions (Due Saturday 7/15)",
             "date": "2023-07-14",
             "deadline": "2023-07-15",
             "links": {
@@ -547,7 +547,7 @@
             "date": "2023-07-14",
             "deadline": "2023-07-18",
             "links": {
-                "": "/exercises/ex07.html"
+                "": "/exercises/ex08.html"
             }
         }
     ],
@@ -573,7 +573,7 @@
             "date": "2023-07-18",
             "deadline": "2023-07-19",
             "links": {
-                "": "https://www.youtube.com/watch?v=_htZ8sB2qe8"
+                "": "https://youtu.be/wBhS8OXtM5Q"
             }
         },
         {
@@ -583,7 +583,7 @@
             "date": "2023-07-18",
             "deadline": "2023-07-19",
             "links": {
-                "": "https://www.youtube.com/watch?v=s5UkpdxbSiM"
+                "": "https://www.youtube.com/watch?v=WbDM7F_6PeQ"
             }
         }
     ],
@@ -629,7 +629,7 @@
         {
             "kind": "LS",
             "n": 20,
-            "title": "Magic Method (Due Friday 7/21)",
+            "title": "Magic Methods (Due Friday 7/21)",
             "date": "2023-07-20",
             "deadline": "2023-07-21",
             "links": {
@@ -675,7 +675,7 @@
             "date": "2023-07-21",
             "deadline": "2023-07-24",
             "links": {
-                "": "/exercises/ex08.html"
+                "": "/exercises/ex10.html"
             }
         }
     ],
@@ -731,7 +731,7 @@
             "date": "2023-07-25",
             "deadline": "2023-07-27",
             "links": {
-                "": "/exercises/ex09.html"
+                "": "/exercises/ex11.html"
             }
         }
     ],
