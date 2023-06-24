@@ -1,7 +1,7 @@
 {
     "2023-06-26": [
         {
-            "kind": "CL",
+            "kind": "LS",
             "n": 0,
             "title": "Welcome to COMP110!",
             "date": "2023-06-26",
@@ -20,7 +20,7 @@
                 "1. Read the Syllabus": "/resources/syllabus.html",
                 "2. Read Quiz Expectations": "/resources/quiz-expectations.html",
                 "3. Read Support Resources": "/support",
-                "4. Complete Lesson 00 Responses on Gradescope": "https://www.gradescope.com/"
+                "4. Complete Lesson 01 Responses on Gradescope": "https://www.gradescope.com/"
             }
         },
         {
