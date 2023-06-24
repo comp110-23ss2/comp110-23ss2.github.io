@@ -7,12 +7,12 @@
             "date": "2023-06-26",
             "deadline": "None",
             "links": {
-                "Zoom Link for Class Lecture": "TODO"
+                "Zoom Link for Class Lecture": "https://unc.zoom.us/j/94238158609"
             }
         },
         {
             "kind": "LS",
-            "n": 0,
+            "n": 1,
             "title": "Syllabus and Support (Due Tuesday 6/27)",
             "date": "2023-06-26",
             "deadline": "2023-06-27",
@@ -60,7 +60,7 @@
     "2023-06-27": [
         {
             "kind": "LS",
-            "n": 1,
+            "n": 2,
             "title": "Computing Systems - Processes, Shells, Kernels, and Hardware (Due Wednesday 6/28)",
             "date": "2023-06-27",
             "deadline": "2023-06-28",
@@ -70,7 +70,7 @@
         },
         {
             "kind": "LS",
-            "n": 2,
+            "n": 3,
             "title": "Programs, Languages, and Interpreters (Due Wednesday 6/28)",
             "date": "2023-06-27",
             "deadline": "2023-06-28",
@@ -80,7 +80,7 @@
         },
         {
             "kind": "LS",
-            "n": 3,
+            "n": 4,
             "title": "VS Code Walkthrough (Due Wednesday 6/28)",
             "date": "2023-06-27",
             "deadline": "2023-06-28",
@@ -90,7 +90,7 @@
         },
         {
             "kind": "LS",
-            "n": 4,
+            "n": 5,
             "title": "Objects and Data Types (Due Wednesday 6/28)",
             "date": "2023-06-27",
             "deadline": "2023-06-28",
@@ -100,7 +100,7 @@
         },
         {
             "kind": "LS",
-            "n": 5,
+            "n": 6,
             "title": "Expressions (Due Wednesday 6/28)",
             "date": "2023-06-27",
             "deadline": "2023-06-28",
@@ -152,7 +152,7 @@
         },
         {
             "kind": "LS",
-            "n": 6,
+            "n": 7,
             "title": "Conditional If/Else Statements (Due Thursday 6/29)",
             "date": "2023-06-28",
             "deadline": "2023-06-29",
@@ -174,7 +174,7 @@
     "2023-06-29": [
         {
             "kind": "LS",
-            "n": 7,
+            "n": 8,
             "title": "While-Loop Statements (Due Friday 6/30)",
             "date": "2023-06-29",
             "deadline": "2023-06-30",
@@ -214,7 +214,7 @@
         },
         {
             "kind": "LS",
-            "n": 8,
+            "n": 9,
             "title": "Advanced String Concepts (Due Saturday 7/1)",
             "date": "2023-06-29",
             "deadline": "2023-07-01",
@@ -244,7 +244,7 @@
         },
         {
             "kind": "LS",
-            "n": 9,
+            "n": 10,
             "title": "Introducing Functions (Due Saturday 7/1)",
             "date": "2023-06-30",
             "deadline": "2023-07-01",
@@ -254,7 +254,7 @@
         },
         {
             "kind": "LS",
-            "n": 10,
+            "n": 11,
             "title": "Function Definition Syntax (Due Saturday 7/1)",
             "date": "2023-06-30",
             "deadline": "2023-07-01",
@@ -264,7 +264,7 @@
         },
         {
             "kind": "LS",
-            "n": 11,
+            "n": 12,
             "title": "Functional Call Semantics and Memory Diagrams (Due Saturday 7/1)",
             "date": "2023-06-30",
             "deadline": "2023-07-01",
@@ -332,7 +332,7 @@
     "2023-07-07": [
         {
             "kind": "LS",
-            "n": 12,
+            "n": 13,
             "title": "Lists in Python (Due Saturday 7/8)",
             "date": "2023-07-07",
             "deadline": "2023-07-08",
@@ -428,7 +428,7 @@
     "2023-07-11": [
         {
             "kind": "LS",
-            "n": 13,
+            "n": 14,
             "title": "For...In Loops (Due Wednesday 7/12)",
             "date": "2023-07-11",
             "deadline": "2023-07-12",
@@ -438,7 +438,7 @@
         },
         {
             "kind": "LS",
-            "n": 14,
+            "n": 15,
             "title": "Dictionaries (Due Wednesday 7/12)",
             "date": "2023-07-11",
             "deadline": "2023-07-12",
@@ -468,7 +468,7 @@
         },
         {
             "kind": "LS",
-            "n": 15,
+            "n": 16,
             "title": "Unit Testing Introduction (Due Friday 7/14)",
             "date": "2023-07-12",
             "deadline": "2023-07-14",
@@ -512,7 +512,7 @@
     "2023-07-14": [
         {
             "kind": "LS",
-            "n": 16,
+            "n": 17,
             "title": "Jupyter Notebooks (Due Saturday 7/15)",
             "date": "2023-07-14",
             "deadline": "2023-07-15",
@@ -522,7 +522,7 @@
         },
         {
             "kind": "LS",
-            "n": 17,
+            "n": 18,
             "title": "Readings CSV Files (Due Saturday 7/15)",
             "date": "2023-07-14",
             "deadline": "2023-07-15",
@@ -556,7 +556,7 @@
     "2023-07-17": [
         {
             "kind": "LS",
-            "n": 18,
+            "n": 19,
             "title": "Column Based Filtering (Due Tuesday 7/18)",
             "date": "2023-07-17",
             "deadline": "2023-07-18",
@@ -568,7 +568,7 @@
     "2023-07-18": [
         {
             "kind": "LS",
-            "n": 19,
+            "n": 20,
             "title": "Introduction to OOP (Due Wednesday 7/19)",
             "date": "2023-07-18",
             "deadline": "2023-07-19",
@@ -628,7 +628,7 @@
         },
         {
             "kind": "LS",
-            "n": 20,
+            "n": 21,
             "title": "Magic Methods (Due Friday 7/21)",
             "date": "2023-07-20",
             "deadline": "2023-07-21",
@@ -638,7 +638,7 @@
         },
         {
             "kind": "LS",
-            "n": 21,
+            "n": 22,
             "title": "Operator Overloading (Due Friday 7/21)",
             "date": "2023-07-20",
             "deadline": "2023-07-21",
@@ -650,7 +650,7 @@
     "2023-07-21": [
         {
             "kind": "LS",
-            "n": 22,
+            "n": 23,
             "title": "Getting Started with EX08 (Due Saturday 7/22)",
             "date": "2023-07-21",
             "deadline": "2023-07-22",
@@ -716,7 +716,7 @@
     "2023-07-25": [
         {
             "kind": "LS",
-            "n": 23,
+            "n": 24,
             "title": "Introduction to Recursion (Due Wednesday 7/26)",
             "date": "2023-07-25",
             "deadline": "2023-07-26",
@@ -768,7 +768,7 @@
         },
         {
             "kind": "LS",
-            "n": 24,
+            "n": 25,
             "title": "NumPy and Pandas (Due Thursday 7/27)",
             "date": "2023-07-26",
             "deadline": "2023-07-27",
@@ -780,7 +780,7 @@
     "2023-07-27": [
         {
             "kind": "CL",
-            "n": 1,
+            "n": 0,
             "title": "LDOC Meeting!",
             "date": "2023-07-27",
             "deadline": "None",
