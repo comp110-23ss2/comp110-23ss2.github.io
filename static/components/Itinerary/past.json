@@ -1,1 +1,60 @@
-{}
+{
+    "2023-06-26": [
+        {
+            "kind": "LS",
+            "n": 0,
+            "title": "Welcome to COMP110!",
+            "date": "2023-06-26",
+            "deadline": "None",
+            "links": {
+                "Zoom Recording ( Passcode: qv#@?s7a )": "https://unc.zoom.us/rec/share/8pDWQPLTmy3Mlsk1LIZ42u6OO8F6OgqkfzbvwQ_g7Ym7nSw01Uvbt72N64adW_Ay.yWGoefecJzZvnG8A"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 1,
+            "title": "Syllabus and Support (Due Tuesday 6/27)",
+            "date": "2023-06-26",
+            "deadline": "2023-06-27",
+            "links": {
+                "1. Read the Syllabus": "/resources/syllabus.html",
+                "2. Read Quiz Expectations": "/resources/quiz-expectations.html",
+                "3. Read Support Resources": "/support",
+                "4. Complete Lesson 01 Responses on Gradescope": "https://www.gradescope.com/"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 0,
+            "title": "Hello World (Due Wednesday 6/28)",
+            "date": "2023-06-26",
+            "deadline": "2023-06-28",
+            "links": {
+                "Software Setup (1/3)": "/resources/setup/os-update.html",
+                "Software Setup (2/3)": "/resources/setup/software.html",
+                "Software Setup (3/3)": "/resources/setup/workspace.html",
+                "EX00 - Hello, World": "/exercises/ex00_hello_world.html"
+            }
+        },
+        {
+            "kind": "RD",
+            "n": 0,
+            "title": "Reading: Ethical Algorithms (Due Friday 7/7)",
+            "date": "2023-06-26",
+            "deadline": "2023-07-07",
+            "links": {
+                "See Gradescope": "https://gradescope.com"
+            }
+        },
+        {
+            "kind": "RD",
+            "n": 1,
+            "title": "Reading: Weapons of Math Destruction (Due Friday 7/14)",
+            "date": "2023-06-26",
+            "deadline": "2023-07-14",
+            "links": {
+                "See Gradescope": "https://gradescope.com"
+            }
+        }
+    ]
+}
