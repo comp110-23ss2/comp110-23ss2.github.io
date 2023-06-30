@@ -56,5 +56,57 @@
                 "See Gradescope": "https://gradescope.com"
             }
         }
+    ],
+    "2023-06-27": [
+        {
+            "kind": "LS",
+            "n": 2,
+            "title": "Computing Systems - Processes, Shells, Kernels, and Hardware (Due Wednesday 6/28)",
+            "date": "2023-06-27",
+            "deadline": "2023-06-28",
+            "links": {
+                "": "https://www.youtube.com/watch?v=LB9wVRYF9tA&feature=youtu.be"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 3,
+            "title": "Programs, Languages, and Interpreters (Due Wednesday 6/28)",
+            "date": "2023-06-27",
+            "deadline": "2023-06-28",
+            "links": {
+                "": "https://www.youtube.com/watch?v=aMjlaAWp-sw"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 4,
+            "title": "VS Code Walkthrough (Due Wednesday 6/28)",
+            "date": "2023-06-27",
+            "deadline": "2023-06-28",
+            "links": {
+                "": "https://www.youtube.com/watch?v=CA5-9qXNSqw"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 5,
+            "title": "Objects and Data Types (Due Wednesday 6/28)",
+            "date": "2023-06-27",
+            "deadline": "2023-06-28",
+            "links": {
+                "": "/lessons/objects-data-types.html"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 6,
+            "title": "Expressions (Due Wednesday 6/28)",
+            "date": "2023-06-27",
+            "deadline": "2023-06-28",
+            "links": {
+                "": "/lessons/expressions.html"
+            }
+        }
     ]
 }

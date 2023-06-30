@@ -275,7 +275,48 @@
     ],
     "2023-07-01": [],
     "2023-07-02": [],
-    "2023-07-03": [],
+    "2023-07-03": [
+        {
+            "kind": "CQ",
+            "n": 7,
+            "title": "Nested While Loops",
+            "date": "2023-07-03",
+            "deadline": "2023-07-03",
+            "links": {
+                "": "https://www.youtube.com/watch?v=Mz7uP3Gyj8U"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 8,
+            "title": "Function Calls",
+            "date": "2023-07-03",
+            "deadline": "2023-07-03",
+            "links": {
+                "": "https://www.youtube.com/watch?v=7pp8uJjpGKQ"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 9,
+            "title": "Function Calls, Main, and f-Strings",
+            "date": "2023-07-03",
+            "deadline": "2023-07-03",
+            "links": {
+                "": "https://www.youtube.com/watch?v=d7xamgcwV8U"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 3,
+            "title": "Structured Wordle (Due Thursday 7/6)",
+            "date": "2023-07-03",
+            "deadline": "2023-07-06",
+            "links": {
+                "": "/exercises/ex03.html"
+            }
+        }
+    ],
     "2023-07-04": [],
     "2023-07-05": [],
     "2023-07-06": [
