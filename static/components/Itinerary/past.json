@@ -108,5 +108,169 @@
                 "": "/lessons/expressions.html"
             }
         }
+    ],
+    "2023-06-28": [
+        {
+            "kind": "CQ",
+            "n": 0,
+            "title": "Practice with Numerical Expressions (Due Thursday 6/29)",
+            "date": "2023-06-28",
+            "deadline": "2023-06-29",
+            "links": {
+                "": "https://www.youtube.com/watch?v=ISP-9wkrlyM"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 1,
+            "title": "Evaluating Relational Expressions (Due Thursday 6/29)",
+            "date": "2023-06-28",
+            "deadline": "2023-06-29",
+            "links": {
+                "": "https://youtu.be/g8_OERDtJ8c"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 2,
+            "title": "User Input and Variables (Due Thursday 6/29)",
+            "date": "2023-06-28",
+            "deadline": "2023-06-29",
+            "links": {
+                "": "https://www.youtube.com/watch?v=wXoUw0scEsI"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 3,
+            "title": "Environment Diagrams (Due Thursday 6/29)",
+            "date": "2023-06-28",
+            "deadline": "2023-06-29",
+            "links": {
+                "": "https://www.youtube.com/watch?v=Vfmuwx3vYKg"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 7,
+            "title": "Conditional If/Else Statements (Due Thursday 6/29)",
+            "date": "2023-06-28",
+            "deadline": "2023-06-29",
+            "links": {
+                "": "https://youtu.be/JP5oFPHw5zc"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 1,
+            "title": "Chardle (Due Thursday 6/29)",
+            "date": "2023-06-28",
+            "deadline": "2023-06-29",
+            "links": {
+                "": "/exercises/ex01.html"
+            }
+        }
+    ],
+    "2023-06-29": [
+        {
+            "kind": "LS",
+            "n": 8,
+            "title": "While-Loop Statements (Due Friday 6/30)",
+            "date": "2023-06-29",
+            "deadline": "2023-06-30",
+            "links": {
+                "": "https://youtu.be/pvpgvYlyfUU"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 4,
+            "title": "Nested If/Then/Else (Due Friday 6/30)",
+            "date": "2023-06-29",
+            "deadline": "2023-06-30",
+            "links": {
+                "": "https://www.youtube.com/watch?v=ruWo2zP9p4U"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 5,
+            "title": "While Loops (Due Friday 6/30)",
+            "date": "2023-06-29",
+            "deadline": "2023-06-30",
+            "links": {
+                "": "https://www.youtube.com/watch?v=_Q9oBXDyciE"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 6,
+            "title": "Bool Operators (Due Friday 6/30)",
+            "date": "2023-06-29",
+            "deadline": "2023-06-30",
+            "links": {
+                "": "https://www.youtube.com/watch?v=HYq9Zoigoc4"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 9,
+            "title": "Advanced String Concepts (Due Saturday 7/1)",
+            "date": "2023-06-29",
+            "deadline": "2023-07-01",
+            "links": {
+                "": "/lessons/strings.html"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 2,
+            "title": "One Shot Wordle (Due Sunday 7/2)",
+            "date": "2023-06-29",
+            "deadline": "2023-07-02",
+            "links": {
+                "": "/exercises/ex02.html"
+            }
+        }
+    ],
+    "2023-06-30": [
+        {
+            "kind": "QZ",
+            "n": 0,
+            "title": "Quiz 00 - Practice Quiz (5%)",
+            "date": "2023-06-30",
+            "deadline": "2023-06-30",
+            "links": {}
+        },
+        {
+            "kind": "LS",
+            "n": 10,
+            "title": "Introducing Functions (Due Saturday 7/1)",
+            "date": "2023-06-30",
+            "deadline": "2023-07-01",
+            "links": {
+                "": "https://youtu.be/UheQNnstJE8"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 11,
+            "title": "Function Definition Syntax (Due Saturday 7/1)",
+            "date": "2023-06-30",
+            "deadline": "2023-07-01",
+            "links": {
+                "": "https://youtu.be/ihpN4LOqx8s"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 12,
+            "title": "Functional Call Semantics and Memory Diagrams (Due Saturday 7/1)",
+            "date": "2023-06-30",
+            "deadline": "2023-07-01",
+            "links": {
+                "": "https://youtu.be/_swT3gKjDVg"
+            }
+        }
     ]
 }
