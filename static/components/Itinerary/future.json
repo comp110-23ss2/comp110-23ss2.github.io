@@ -55,7 +55,58 @@
             "links": {}
         }
     ],
-    "2023-07-07": [],
+    "2023-07-07": [
+        {
+            "kind": "LS",
+            "n": 13,
+            "title": "Lists in Python",
+            "date": "2023-07-07",
+            "deadline": "2023-07-07",
+            "links": {
+                "": "https://youtu.be/uGsgE_EKI4U"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 10,
+            "title": "Diagrams with References (Lists)",
+            "date": "2023-07-07",
+            "deadline": "2023-07-07",
+            "links": {
+                "": "https://www.youtube.com/watch?v=Ns0ac_RhncI"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 11,
+            "title": "Diagrams with List Arguments",
+            "date": "2023-07-07",
+            "deadline": "2023-07-07",
+            "links": {
+                "": "https://www.youtube.com/watch?v=-fwsbFlct4k"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 12,
+            "title": "Diagrams with List Return Values",
+            "date": "2023-07-07",
+            "deadline": "2023-07-07",
+            "links": {
+                "": "https://www.youtube.com/watch?v=njC-awGQ4dQ"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 4,
+            "title": "List Utility Functions (Due Tuesday 7/11)",
+            "date": "2023-07-07",
+            "deadline": "2023-07-11",
+            "links": {
+                "": "/exercises/ex05.html"
+            }
+        }
+    ],
     "2023-07-08": [],
     "2023-07-09": [],
     "2023-07-10": [],
