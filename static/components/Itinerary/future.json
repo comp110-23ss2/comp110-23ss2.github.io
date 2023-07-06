@@ -1,46 +1,4 @@
 {
-    "2023-07-03": [
-        {
-            "kind": "CQ",
-            "n": 7,
-            "title": "Nested While Loops",
-            "date": "2023-07-03",
-            "deadline": "2023-07-03",
-            "links": {
-                "": "https://www.youtube.com/watch?v=Mz7uP3Gyj8U"
-            }
-        },
-        {
-            "kind": "CQ",
-            "n": 8,
-            "title": "Function Calls",
-            "date": "2023-07-03",
-            "deadline": "2023-07-03",
-            "links": {
-                "": "https://www.youtube.com/watch?v=7pp8uJjpGKQ"
-            }
-        },
-        {
-            "kind": "CQ",
-            "n": 9,
-            "title": "Function Calls, Main, and f-Strings",
-            "date": "2023-07-03",
-            "deadline": "2023-07-03",
-            "links": {
-                "": "https://www.youtube.com/watch?v=d7xamgcwV8U"
-            }
-        },
-        {
-            "kind": "EX",
-            "n": 3,
-            "title": "Structured Wordle (Due Thursday 7/6)",
-            "date": "2023-07-03",
-            "deadline": "2023-07-06",
-            "links": {
-                "": "/exercises/ex03.html"
-            }
-        }
-    ],
     "2023-07-04": [],
     "2023-07-05": [],
     "2023-07-06": [
@@ -107,7 +65,48 @@
     ],
     "2023-07-08": [],
     "2023-07-09": [],
-    "2023-07-10": [],
+    "2023-07-10": [
+        {
+            "kind": "CQ",
+            "n": 13,
+            "title": "Scopes: Global vs. Local",
+            "date": "2023-07-10",
+            "deadline": "2023-07-10",
+            "links": {
+                "": "https://www.youtube.com/watch?v=Gq4cWatsHKg"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 14,
+            "title": "List References",
+            "date": "2023-07-10",
+            "deadline": "2023-07-10",
+            "links": {
+                "": "https://www.youtube.com/watch?v=7UJyTgKUF5M"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 15,
+            "title": "List References Continued",
+            "date": "2023-07-10",
+            "deadline": "2023-07-10",
+            "links": {
+                "": "https://www.youtube.com/watch?v=Cm9YzSV62k8"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 16,
+            "title": "Follow Along: Implementing and Testing Functions with Lists",
+            "date": "2023-07-10",
+            "deadline": "2023-07-10",
+            "links": {
+                "": "https://youtu.be/n3FahRgDotQ"
+            }
+        }
+    ],
     "2023-07-11": [],
     "2023-07-12": [
         {
