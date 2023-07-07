@@ -1,5 +1,4 @@
 {
-    "2023-07-04": [],
     "2023-07-05": [],
     "2023-07-06": [
         {
@@ -59,7 +58,7 @@
             "date": "2023-07-07",
             "deadline": "2023-07-11",
             "links": {
-                "": "/exercises/ex05.html"
+                "": "/exercises/ex04.html"
             }
         }
     ],
@@ -107,7 +106,38 @@
             }
         }
     ],
-    "2023-07-11": [],
+    "2023-07-11": [
+        {
+            "kind": "LS",
+            "n": 14,
+            "title": "For...In Loops",
+            "date": "2023-07-11",
+            "deadline": "2023-07-11",
+            "links": {
+                "": "https://youtu.be/YPfFCD_RGK8"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 15,
+            "title": "Dictionaries",
+            "date": "2023-07-11",
+            "deadline": "2023-07-11",
+            "links": {
+                "": "https://www.youtube.com/watch?v=2B8Nh3pJEFE"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 17,
+            "title": "Dictionary Practice",
+            "date": "2023-07-11",
+            "deadline": "2023-07-11",
+            "links": {
+                "": "https://www.youtube.com/watch?v=WA2Qt_n8ZW4"
+            }
+        }
+    ],
     "2023-07-12": [
         {
             "kind": "QZ",
