@@ -381,5 +381,80 @@
             }
         }
     ],
-    "2023-07-08": []
+    "2023-07-08": [],
+    "2023-07-09": [],
+    "2023-07-10": [
+        {
+            "kind": "CQ",
+            "n": 13,
+            "title": "Scopes: Global vs. Local",
+            "date": "2023-07-10",
+            "deadline": "2023-07-10",
+            "links": {
+                "": "https://www.youtube.com/watch?v=Gq4cWatsHKg"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 14,
+            "title": "List References",
+            "date": "2023-07-10",
+            "deadline": "2023-07-10",
+            "links": {
+                "": "https://www.youtube.com/watch?v=7UJyTgKUF5M"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 15,
+            "title": "List References Continued",
+            "date": "2023-07-10",
+            "deadline": "2023-07-10",
+            "links": {
+                "": "https://www.youtube.com/watch?v=Cm9YzSV62k8"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 16,
+            "title": "Follow Along: Implementing and Testing Functions with Lists",
+            "date": "2023-07-10",
+            "deadline": "2023-07-10",
+            "links": {
+                "": "https://youtu.be/n3FahRgDotQ"
+            }
+        }
+    ],
+    "2023-07-11": [
+        {
+            "kind": "LS",
+            "n": 14,
+            "title": "For...In Loops",
+            "date": "2023-07-11",
+            "deadline": "2023-07-11",
+            "links": {
+                "": "https://youtu.be/YPfFCD_RGK8"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 15,
+            "title": "Dictionaries",
+            "date": "2023-07-11",
+            "deadline": "2023-07-11",
+            "links": {
+                "": "https://www.youtube.com/watch?v=2B8Nh3pJEFE"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 17,
+            "title": "Dictionary Practice",
+            "date": "2023-07-11",
+            "deadline": "2023-07-11",
+            "links": {
+                "": "https://www.youtube.com/watch?v=WA2Qt_n8ZW4"
+            }
+        }
+    ]
 }
