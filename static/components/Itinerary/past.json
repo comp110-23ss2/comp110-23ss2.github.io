@@ -456,5 +456,35 @@
                 "": "https://www.youtube.com/watch?v=WA2Qt_n8ZW4"
             }
         }
+    ],
+    "2023-07-12": [
+        {
+            "kind": "QZ",
+            "n": 2,
+            "title": "Quiz 2 - Opens on Gradescope at 9:45am",
+            "date": "2023-07-12",
+            "deadline": "2023-07-12",
+            "links": {}
+        },
+        {
+            "kind": "LS",
+            "n": 16,
+            "title": "Unit Testing Introduction (Due Thursday 7/13)",
+            "date": "2023-07-12",
+            "deadline": "2023-07-13",
+            "links": {
+                "": "https://youtu.be/VAdJybtia-4"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 5,
+            "title": "Dictionary Functions (Due Friday 7/14)",
+            "date": "2023-07-12",
+            "deadline": "2023-07-14",
+            "links": {
+                "": "/exercises/ex05.html"
+            }
+        }
     ]
 }

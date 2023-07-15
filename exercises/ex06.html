@@ -4,12 +4,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> EX06 - Choose Your Own Adventure - COMP110 - 23S</title>
+  <title> EX06 - Data Wrangling - COMP110 - 23S</title>
   <link rel="icon" type="image/png" href="/static/tabbrand.png" />
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
-  <link rel="stylesheet" href="/static/styles.css?v=1689342385.2732275">
+  <link rel="stylesheet" href="/static/styles.css?v=1689427957.5003967">
 </head>
 
 <body>
@@ -44,10 +44,10 @@
     </div>
   </nav>
 
-  <div id="projects-page" class="container">
+  <div id="exercises-page" class="container">
     <div class="row pt-4">
       <div class="col-12">
-        <h1>EX06 - Choose Your Own Adventure</h1>
+        <h1>EX06 - Data Wrangling</h1>
         <hr class="title" />
       </div>
     </div>
@@ -61,124 +61,64 @@
                 <div id="overview-links">
                     <div id="TOC" role="doc-toc">
                         <ul class="overview-item"><ul>
-<li><a href="#background-lessons">Background Lessons</a></li>
-<li><a href="#getting-started">Getting Started</a></li>
-<li><a href="#specifications">Specifications</a>
-<ul>
-<li><a href="#required-global-variables-10-points-total">0. Required Global variables (10 points total):</a></li>
-<li><a href="#main-function-10-points-total">1. <code>main</code> function (10 points total):</a></li>
-<li><a href="#greet-procedure-and-welcome-message-15-points-total">2. <code>greet</code> procedure and welcome message (15 points total):</a></li>
-<li><a href="#at-least-one-custom-procedure-15-points-total">3. At least one custom procedure (15 points total):</a></li>
-<li><a href="#at-least-one-custom-function-15-points-total">4. At least one custom function (15 points total):</a></li>
-<li><a href="#game-loop-10-points-total">5. Game loop (10 points total):</a></li>
-<li><a href="#misc.-requirements-15-points-total">6. Misc. Requirements (15 points total):</a></li>
-</ul></li>
-<li><a href="#rubric">Rubric</a></li>
-<li><a href="#make-a-backup-checkpoint-commit">3. Make a Backup Checkpoint “Commit”</a></li>
-<li><a href="#submission-instructions">Submission Instructions</a></li>
+<li><a href="#overview">Overview</a></li>
+<li><a href="#pull-the-skeleton-code">0. Pull the skeleton code</a></li>
+<li><a href="#starter-files">1. Starter Files</a></li>
+<li><a href="#autograding">Autograding</a></li>
 </ul>
 </</ul>
                     </div>
                 </div>
             </div>
         </div>
-        <div id="content" class="content box col-xl-9 col-lg-9 order-2 order-lg-1 pt-3"><p>In the first open-ended programming exercise, you will create a text-driven, “Choose Your Own Adventure” experience.</p>
-<p>This exercise will need to satisfy many specifications, so before you begin programming be sure to read this exercise’s write-up in full.</p>
-<p>You are free to use your imagination to design and implement any experience you would like, as long as it meets the requirements. For some inspiration, here are some example ideas the UTA team and I came up with, if you are not feeling the spark of creativity:</p>
+        <div id="content" class="content box col-xl-9 col-lg-9 order-2 order-lg-1 pt-3"><h2 id="overview">Overview</h2>
+<p>In Exercise 08, you will write some additional utility functions for <em>wrangling</em> data from a raw CSV data file into representations more conducive for computing. In the process, you will gain experience and comfort working with <code>dict</code> and <code>list</code> data structures.</p>
+<p>In order to complete this exercise, you <strong>must</strong> watch and follow along with Tuesday’s lecture, where we provide you with the code for several of the necessary functions to complete this assignment.</p>
+<p>In this exercise, you will move through a very common first set of steps when working with a new data set:</p>
 <ol type="1">
-<li>Taking care of a virtual pet like a <a href="https://en.wikipedia.org/wiki/Tamagotchi">tamagotchi</a>. You are free to introduce additional variables, global or otherwise, for keeping track of a pet’s health.</li>
-<li>Some kind of role playing game where you choose what kinds of attacks or defenses to use and the opposing creature randomly chooses theirs. Points could be health or damage inflicted.</li>
-<li>A number guessing game such as the generating a random number and asking the user to guess it and counting the number of attempts it takes them to guess it correctly.</li>
-<li>A “buzzfeed quiz” that determines which Disney Princess character are (or anything else).</li>
-<li>A coinflip guessing game where you have to choose heads or tails and see how many you can guess in a row correctly.</li>
-<li>Some kind of mystery that involves searching a sequence of rooms.</li>
-<li>Something heavily emoji based, perhaps as surprising as a <a href="https://en.wikipedia.org/wiki/Category:Japanese_game_shows">Japanese Game Show</a></li>
-<li>A parody of something that is poignant satire (a student once made a ConnectCarolina registration parody that was pure, comedic gold)</li>
+<li>Read the data</li>
+<li>Transform it to be in a “shape” that is easier to work with</li>
+<li>Preview and select just the parts of the dataset you are interested in</li>
+<li>Run (simple, in this notebook) analyses</li>
 </ol>
-<p>Again, feel encouraged to come up with an idea that is uniquely your own!</p>
-<h2 id="background-lessons">Background Lessons</h2>
-<p>The conceptual purpose of the game is to help you practice the concepts you have learned up to this point and explore some additional, related topics, including:</p>
-<ol type="1">
-<li>String Escape Sequences (for Emoji!)</li>
-<li>String Interpolation (better than concatenation!)</li>
-<li>Named Constants</li>
-<li>Global Variables</li>
-</ol>
-<p>As background preparation for this exercise, you should first complete the following lessons linked below:</p>
-<ol type="1">
-<li><a href="/lessons/strings.html">Strings</a></li>
-<li><a href="/lessons/scopes-constants-globals.html">Scopes, Constants, Globals</a></li>
-</ol>
-<h2 id="getting-started">Getting Started</h2>
-<p>In your workspace’s <code>exercises</code> directory, create a file named <code>cyoa.py</code> for this Choose Your Own Adventure experience.</p>
-<p>Begin by defining a <code>main</code> procedure that serves as the “entrypoint” to the program. The initial <em>call</em> to <code>main</code> should be found at the end of your program, following Python’s idiom:</p>
-<pre class="plaintext"><code>if __name__ == &quot;__main__&quot;:
-  main()</code></pre>
-<h2 id="specifications">Specifications</h2>
-<p>These are the requirements for this exercise. Please read them in full and have a rough plan for how you will satisfy them all, before you begin working on it.</p>
-<h3 id="required-global-variables-10-points-total">0. Required Global variables (10 points total):</h3>
-<p>0.0 Establish a global variable named <code>points</code> to track “adventure points”. How you choose to use these adventure points is up to you. Initialize your global <code>points</code> variable from within your <code>main</code> function. (5 points – autograded)</p>
-<p>0.1 Establish a global variable named <code>player</code> to track the player’s name. (5 points – autograded)</p>
-<p>These variables must have an explicit type declaration.</p>
-<h3 id="main-function-10-points-total">1. <code>main</code> function (10 points total):</h3>
-<p>1.0 Define a <code>main</code> function, that returns <code>None</code>, and follows the Python idiom for calling <code>main</code> at the end of the program based on the dunderscore variable <code>__name__</code> being equal to <code>"__main__"</code>. (5 points – autograded)</p>
-<p>1.1 After greeting the player using a call to the <code>greet</code> procedure, your <code>main</code> function should enter your experience. You should present the player with at least three options of where to go next and ask them to choose one. One of the three options should be to end the experience and print a goodbye message that includes the number of “adventure points” they accumulated in the experience. The other options should result in function calls which set the user off in different directions on the adventure. You will need to define appropriate functions for these distinct paths. (5 points – hand graded)</p>
-<h3 id="greet-procedure-and-welcome-message-15-points-total">2. <code>greet</code> procedure and welcome message (15 points total):</h3>
-<p>2.0 Define a procedure, meaning a function that returns <code>None</code>, named <code>greet</code>. (5 points – autograded)</p>
-<p>2.1 The <code>greet</code> function must print a welcome message to give some context to your game and asks the player for their name. You should call this procedure at the beginning of your <code>main</code> procedure. (5 points – autograded)</p>
-<p>2.2 The <code>greet</code> function should assign the name input by the user to the global variable named <code>player</code>. (5 points – hand graded)</p>
-<h3 id="at-least-one-custom-procedure-15-points-total">3. At least one custom procedure (15 points total):</h3>
-<p>One of the possible directions the player is set off in from <code>main</code> must be a procedure call. <em>(Again, a procedure is a function that returns <code>None</code>.)</em></p>
-<p>3.1 The procedure should lead to textual interaction(s) that make use of players name and ask the player for additional <code>input</code>. (10 points – hand graded)</p>
-<p>3.2 The procedure should have logic to reassign the <code>points</code> global variable directly based on the user’s choices. At a minimum, increase the adventure’s points each time the player makes a choice. (5 points – hand graded)</p>
-<p>What happens within this procedure is up to you and you are free for this procedure call to lead to others, make use of loops, and so on. Get creative!</p>
-<h3 id="at-least-one-custom-function-15-points-total">4. At least one custom function (15 points total):</h3>
-<p>One of the other possible directions the player can choose to set off in from <code>main</code> should be a call to a function that takes an integer as a parameter and returns an integer.</p>
-<p>4.1 The function takes at least one <code>int</code> as a parameter and returns an <code>int</code>. The call to this function from <code>main</code> should <em>pass</em> the player’s <code>points</code> value as an argument to the function call. (5 points – hand graded)</p>
-<p>4.2 Like the previous procedure, you should make use of the <code>player</code> name in some output and have the user make at least one interaction choice that results in the points <em>parameter (local variable)</em> changing. Ultimately, this function should return the player’s total points after any interactions it leads to. (5 points – hand graded)</p>
-<p>4.3 The <code>main</code> function should use the returned value to update the global variable <code>points</code>. (5 points – hand graded)</p>
-<blockquote>
-<p>Note: Requirements 3 and 4 are intentionally asking you to implement the same kinds of behavior but using two very different strategies in code for achieving them. The strategy in #3 relies on global variables shared between the main procedure and the function(s) you write. The strategy in #4 avoids the function(s) from directly accessing or reassigning the <code>points</code> global variable. There are trade-offs to each strategy. It is valuable to think through the trade-offs of both!</p>
-</blockquote>
-<h3 id="game-loop-10-points-total">5. Game loop (10 points total):</h3>
-<p>5.0 Introduce a “game loop” in your <code>main</code> function. The game loop should allow the user to continue your experience and choose the same initial branch, or another branch, or to stop playing. Before looping, each time, you should update the user on their total number of points. (You should <strong>NOT</strong> use the <code>exit()</code> function for this.) (10 points – hand graded)</p>
-<h3 id="misc.-requirements-15-points-total">6. Misc. Requirements (15 points total):</h3>
-<p>6.0 You must make use of f-strings (formatted string literals) described in lecture 6 to produce any output that would otherwise require concatenation. (5 points – hand graded)</p>
-<p>6.1 You must define at least one global <code>NAMED_CONSTANT</code> and assign it the unicode escape sequence <code>"\U00000000"</code> for each Emoji you use. Strings such as these are considered “<em>magic numbers</em>”, too! You are encouraged to make liberal use of Emoji throughout your adventure, they are fun! (5 points – hand graded)</p>
-<p>6.2 At least one path in your adventure must incorporate some element of randomness from the <code>random</code> library. (5 points – hand graded)</p>
-<p>Note: Your program should not have any global calls to the <code>input</code> function. Any user prompting/interaction should be inside of a function.</p>
-<p>If you get an OSError from the grader, double check you have no global <code>input</code> calls and that your idiom is set up correctly per the “Getting Started” section above.</p>
-<h2 id="rubric">Rubric</h2>
+<p>The sample data set provided alongside this exercise is police stop data from Durham, as compiled by the <a href="https://openpolicing.stanford.edu/data/">Stanford Open Policing Project</a>.</p>
+<p>There are two files you will be working in: <code>data_utils.py</code> and <code>data_wrangling.ipynb</code>. The first is where you will be writing your function definitions. You should copy over your functions from the lesson on CSV file reading into this file. The Jupyter notebook will guide you through the exercise and lead you through a simple analysis. All you need to do here is run the cells. You will get some baseline credit just for running them and moving through the steps as instructed.</p>
+<p>Assignment Outline</p>
 <ul>
-<li>5 Points - Static Type Checks</li>
-<li>5 Points - Linting</li>
-<li>10 Points - <code>player</code> and <code>points</code> global variables correctly declared</li>
-<li>10 points - <code>main</code> function allows user to choose one of three options</li>
-<li>15 Points - <code>greet</code> function meets specification #2 above</li>
-<li>15 Points - Procedure meeting specification #3 above</li>
-<li>15 Points - Function meeting specification #4 above</li>
-<li>10 Points - Game loop (with no use of <code>exit()</code> function)</li>
-<li>5 Points - Used at least one emoji and setup a named constant for it</li>
-<li>5 Points - Used f-strings for building string outputs rather than concatenation</li>
-<li>5 Points - Incorporated randomness</li>
+<li><p><code>head</code> – 30 Points Autograded</p></li>
+<li><p><code>select</code> – 25 Points Autograded</p></li>
+<li><p><code>concat</code> – 15 Points Autograded</p></li>
+<li><p>Did you run the notebook cells and save the values of outputs before submission? – 10 Points Handgraded</p></li>
+<li><p>Style, Linting, Typing – 20 Points Autograded</p></li>
 </ul>
-<h2 id="make-a-backup-checkpoint-commit">3. Make a Backup Checkpoint “Commit”</h2>
-<p>As you make progress on this exercise, making backups is encouraged. Note that you do not have to make a backup in order to submit your work, though you are encouraged to before each submission so that you can revert back to a previous point in your project if you accidentally change something you did not intend to.</p>
-<ol type="1">
-<li>Open the Source Control panel (Command Palette: “Show SCM” or click the icon with three circles and lines on the activity panel).</li>
-<li>Notice the files listed under Changes. These are files you’ve made modifications to since your last backup.</li>
-<li>Move your mouse’s cursor over the word <em>Changes</em> and notice the + symbol that appears. Click that plus symbol to add all changes to the next backup. You will now see the files listed under “Staged Changes”.
-<ul>
-<li>If you do not want to backup <em>all</em> changed files, you can select them individually. For this course you’re encouraged to back everything up.</li>
-</ul></li>
-<li>In the Message box, give a brief description of what you’ve changed and are backing up. This will help you find a specific backup (called a “commit”) if needed. In this case a message such as, “Progress on Exercise 2” will suffice.</li>
-<li>Press the Check icon to make a <em>Commit</em> (a version) of your work.</li>
-<li>Finally, press the Ellipses icon (…), look for “Pull/Push” submenu, and select “Push to…”, and in the dropdown select your backup repository.</li>
+<p>This means anything in the notebook that is not included in this outline was either provided to you in one of the earlier videos or is optional!</p>
+<h2 id="pull-the-skeleton-code">0. Pull the skeleton code</h2>
+<p>You will find the starter files needed by “pulling” from the course workspace repository. Before beginning, be sure to:</p>
+<ol start="0" type="1">
+<li>Be sure you are in your course workspace. Open the file explorer and you should see your work for the course. If you do not, open your course workspace through File &gt; Open Recent.</li>
+<li>Open the <em>Source Control View</em> by clicking the 3-node (circles) graph (connected by lines) icon in your sidebar or opening the command palatte and searching for <em>Source Control</em>.</li>
+<li>Click the Ellipses in the Source Control pane and select “Pull” from the drop-down menu. This will begin the pulling process from the course repository. It should silently succeed.</li>
+<li>Return to the File Explorer pane and open the <code>exercises</code> directory. You should see it now contains another directory named <code>ex06</code>. If you expand that directory, you should see the starter file for the three functions you’ll be writing.</li>
+<li>If you do not see the <code>ex06</code> directory, try once more but selecting <code>"Pull From"</code> and select <code>origin</code> in step 2. If you expand that directory, you will see the starter files: <code>data_utils.py</code> and <code>data_wrangling.ipynb</code>. Additionally, you will see a CSV file in the <code>data/</code> directory with the sample traffic stops from one week in Durham in 2015.</li>
 </ol>
-<h2 id="submission-instructions">Submission Instructions</h2>
-<p>To prepare your scene for submission, be sure to add a docstring to your module (at the top of the file) and a global <code>__author__</code> variable set to a string which contains your 9-digit PID. Linting will also look for docstrings in your function definitions, per usual. 35 points of this assignment will be autograded, and the remaining 65 hand-granded.</p>
-<p>Run <code>python -m tools.submission exercises/cyoa.py</code> to build your submission zip for upload to Gradescope. Don’t forget to backup your work by creating a commit and pushing it to GitHub. For a reminder of this process, see the previous exercises.</p>
-<p><strong>NOTE:</strong> If you’re running into a Gradescope error <code>No such file or directory: 'exercises/cyoa.py'</code>, make sure <code>cyoa.py</code> is under <code>exercises</code> not <code>project</code></p>
+<h2 id="starter-files">1. Starter Files</h2>
+<p>Note, this exercise makes use of functions that were first introduced in the lesson on CSV file Reading. You will use files defined in <code>data_utils.py</code> from that lesson and additional functions to it in this exercise.</p>
+<p>Your work in this exercise will be completed across two files:</p>
+<ol type="1">
+<li><p><code>data_utils.py</code> - This is the Python module where you will implement utility functions for working with data.</p></li>
+<li><p><code>data_wrangling.ipynb</code> - This is the Jupyter Notebook file that makes use of the utility functions</p></li>
+</ol>
+<p>The descriptions of the functions you will need to implement, as well as example code that makes use of those functions once they are correctly implemented, can be found in the <code>data_wrangling.ipynb</code> file.</p>
+<p>If your screen is large enough, you are encouraged to open these files side-by-side in VSCode by dragging the tab of one to the right side of VSCode so that it changes to a split pane view. Closing your file explorer can help give you additional horizontal space.</p>
+<p><strong>Be sure to save your work in <code>data_utils.py</code> before reevaluating cells in <code>data_wrangling.ipynb</code>.</strong></p>
+<h2 id="autograding">Autograding</h2>
+<p><strong>BEFORE SUBMITTING YOUR ASSIGNMENT FOR SUBMISSION, BE SURE TO SAVE YOUR WORK IN YOUR JUPYTER NOTEBOOK!!!</strong> After submission, view the files of your submission to be sure your notebook’s cells’ output is visible in the submission on Gradescope. If not, save your notebook and resubmit.</p>
+<p>Login to Gradescope and select the assignment named “ex06 - Data Wrangling”. You’ll see an area to upload a zip file. To produce a zip file for autograding, return back to Visual Studio Code.</p>
+<p>If you <em>do not</em> see a Terminal at the bottom of your screen, open the Command Palette and search for “View: Toggle Integrated Terminal”.</p>
+<p>To produce a zip file for <code>ex06</code>, type the following command (all on a single line):</p>
+<p><code>python -m tools.submission exercises/ex06</code></p>
+<p>In the file explorer pane, look to find the zip file named “yy.mm.dd-hh.mm-exercises-ex06.zip”. The “mm”, “dd”, and so on, are timestamps with the current year, month, day, hour, minute. If you right click on this file and select “Reveal in File Explorer” on Windows or “Reveal in Finder” on Mac, the zip file’s location on your computer will open. Upload this file to Gradescope to submit your work for this exercise.</p>
+<p>Autograding will take a few moments to complete. For this exercise there will be points manually graded for style – using meaningful variable names and snake_case. If there are issues reported, you are encouraged to try and resolve them and resubmit. If for any reason you aren’t receiving full credit and aren’t sure what to try next, come give us a visit in office hours!</p>
 </div>
 
        
@@ -186,7 +126,7 @@
     </div> 
 
     <div class="authors-box bg-dark mt-4 py-3 ps-4">
-      <span> Contributor(s): Kris Jordan</span>
+      <span> Contributor(s):        Kaki Ryan,        Izzy Ford, Kris Jordan</span>
     </div>
   </div>
   <div class='link-page mt-3 container'>
