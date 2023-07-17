@@ -1,46 +1,4 @@
 {
-    "2023-07-14": [
-        {
-            "kind": "LS",
-            "n": 17,
-            "title": "Jupyter Notebooks",
-            "date": "2023-07-14",
-            "deadline": "2023-07-14",
-            "links": {
-                "": "https://youtu.be/HJgX1WWC26A"
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 18,
-            "title": "Readings CSV Files",
-            "date": "2023-07-14",
-            "deadline": "2023-07-14",
-            "links": {
-                "": "https://youtu.be/z4ax7ilh-RY"
-            }
-        },
-        {
-            "kind": "CQ",
-            "n": 20,
-            "title": "Row-Oriented vs. Column-Oriented Data Structure Compositions",
-            "date": "2023-07-14",
-            "deadline": "2023-07-14",
-            "links": {
-                "": "https://www.youtube.com/watch?v=s5UkpdxbSiM"
-            }
-        },
-        {
-            "kind": "EX",
-            "n": 6,
-            "title": "Data Wrangling (Due Tuesday 7/18)",
-            "date": "2023-07-14",
-            "deadline": "2023-07-18",
-            "links": {
-                "": "/exercises/ex06.html"
-            }
-        }
-    ],
     "2023-07-15": [],
     "2023-07-16": [],
     "2023-07-17": [
@@ -129,7 +87,38 @@
             }
         }
     ],
-    "2023-07-21": [],
+    "2023-07-21": [
+        {
+            "kind": "LS",
+            "n": 23,
+            "title": "Getting Started with EX08",
+            "date": "2023-07-21",
+            "deadline": "2023-07-21",
+            "links": {
+                "": "https://www.youtube.com/watch?v=fmnMaN728RE&feature=youtu.be"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 24,
+            "title": "Special Parameters",
+            "date": "2023-07-21",
+            "deadline": "2023-07-21",
+            "links": {
+                "": "https://www.youtube.com/watch?v=7cOEibFopjQ"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 7,
+            "title": "Simpy (Due Monday 7/24)",
+            "date": "2023-07-21",
+            "deadline": "2023-07-24",
+            "links": {
+                "": "/exercises/ex10.html"
+            }
+        }
+    ],
     "2023-07-22": [],
     "2023-07-23": [],
     "2023-07-24": [],

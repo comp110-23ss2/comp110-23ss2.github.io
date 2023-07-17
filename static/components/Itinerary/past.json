@@ -479,9 +479,9 @@
         {
             "kind": "EX",
             "n": 5,
-            "title": "Dictionary Functions (Due Friday 7/14)",
+            "title": "Dictionary Functions (Due Saturday 7/15)",
             "date": "2023-07-12",
-            "deadline": "2023-07-14",
+            "deadline": "2023-07-15",
             "links": {
                 "": "/exercises/ex05.html"
             }
@@ -506,6 +506,48 @@
             "deadline": "2023-07-13",
             "links": {
                 "": "https://www.youtube.com/watch?v=uTc39ZXStP0"
+            }
+        }
+    ],
+    "2023-07-14": [
+        {
+            "kind": "LS",
+            "n": 17,
+            "title": "Jupyter Notebooks",
+            "date": "2023-07-14",
+            "deadline": "2023-07-14",
+            "links": {
+                "": "https://youtu.be/HJgX1WWC26A"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 18,
+            "title": "Readings CSV Files",
+            "date": "2023-07-14",
+            "deadline": "2023-07-14",
+            "links": {
+                "": "https://youtu.be/z4ax7ilh-RY"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 20,
+            "title": "Row-Oriented vs. Column-Oriented Data Structure Compositions",
+            "date": "2023-07-14",
+            "deadline": "2023-07-14",
+            "links": {
+                "": "https://www.youtube.com/watch?v=s5UkpdxbSiM"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 6,
+            "title": "Data Wrangling (Due Wednesday 7/19)",
+            "date": "2023-07-14",
+            "deadline": "2023-07-19",
+            "links": {
+                "": "/exercises/ex06.html"
             }
         }
     ]
