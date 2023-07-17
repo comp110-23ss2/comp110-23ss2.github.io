@@ -1,26 +1,4 @@
 {
-    "2023-07-13": [
-        {
-            "kind": "CQ",
-            "n": 18,
-            "title": "What's up with __name__?",
-            "date": "2023-07-13",
-            "deadline": "2023-07-13",
-            "links": {
-                "": "https://www.youtube.com/watch?v=drrrVHLv_Bg"
-            }
-        },
-        {
-            "kind": "CQ",
-            "n": 19,
-            "title": "Importing Modules with Python",
-            "date": "2023-07-13",
-            "deadline": "2023-07-13",
-            "links": {
-                "": "https://www.youtube.com/watch?v=uTc39ZXStP0"
-            }
-        }
-    ],
     "2023-07-14": [
         {
             "kind": "LS",
@@ -109,7 +87,48 @@
             "links": {}
         }
     ],
-    "2023-07-20": [],
+    "2023-07-20": [
+        {
+            "kind": "CQ",
+            "n": 22,
+            "title": "Implementing a Pure Method & Mutable vs. Immutable Operations",
+            "date": "2023-07-20",
+            "deadline": "2023-07-20",
+            "links": {
+                "": "https://www.youtube.com/watch?v=nl4zwaffDYI"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 23,
+            "title": "Diagramming with Multiple Classes",
+            "date": "2023-07-20",
+            "deadline": "2023-07-20",
+            "links": {
+                "": "https://www.youtube.com/watch?v=yV1VjEx86fQ"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 21,
+            "title": "Magic Methods",
+            "date": "2023-07-20",
+            "deadline": "2023-07-20",
+            "links": {
+                "": "https://www.youtube.com/watch?v=yxDIEqm_K6c"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 22,
+            "title": "Operator Overloading",
+            "date": "2023-07-20",
+            "deadline": "2023-07-20",
+            "links": {
+                "": "https://www.youtube.com/watch?v=JJLnGL-cShU&feature=youtu.be"
+            }
+        }
+    ],
     "2023-07-21": [],
     "2023-07-22": [],
     "2023-07-23": [],
