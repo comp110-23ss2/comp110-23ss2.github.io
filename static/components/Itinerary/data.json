@@ -643,7 +643,7 @@
         {
             "kind": "LS",
             "n": 23,
-            "title": "Getting Started with EX08",
+            "title": "Getting Started with EX07",
             "date": "2023-07-21",
             "deadline": "2023-07-21",
             "links": {
@@ -667,7 +667,7 @@
             "date": "2023-07-21",
             "deadline": "2023-07-24",
             "links": {
-                "": "/exercises/ex08.html"
+                "": "/exercises/ex07.html"
             }
         }
     ],
