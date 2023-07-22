@@ -1,48 +1,4 @@
 {
-    "2023-07-17": [
-        {
-            "kind": "LS",
-            "n": 19,
-            "title": "Column Based Filtering",
-            "date": "2023-07-17",
-            "deadline": "2023-07-17",
-            "links": {
-                "": "https://www.youtube.com/watch?v=_htZ8sB2qe8"
-            }
-        }
-    ],
-    "2023-07-18": [
-        {
-            "kind": "LS",
-            "n": 20,
-            "title": "Introduction to OOP",
-            "date": "2023-07-18",
-            "deadline": "2023-07-18",
-            "links": {
-                "": "https://youtu.be/wBhS8OXtM5Q"
-            }
-        },
-        {
-            "kind": "CQ",
-            "n": 21,
-            "title": "Tracing a Basic OOP Example in Memory",
-            "date": "2023-07-18",
-            "deadline": "2023-07-18",
-            "links": {
-                "": "https://www.youtube.com/watch?v=WbDM7F_6PeQ"
-            }
-        }
-    ],
-    "2023-07-19": [
-        {
-            "kind": "QZ",
-            "n": 3,
-            "title": "Quiz 3 - Opens on Gradescope at 9:45am",
-            "date": "2023-07-19",
-            "deadline": "2023-07-19",
-            "links": {}
-        }
-    ],
     "2023-07-20": [
         {
             "kind": "CQ",
@@ -119,9 +75,102 @@
     ],
     "2023-07-22": [],
     "2023-07-23": [],
-    "2023-07-24": [],
-    "2023-07-25": [],
-    "2023-07-26": [],
+    "2023-07-24": [
+        {
+            "kind": "CQ",
+            "n": 25,
+            "title": "Diagram #1 - OOP Practice",
+            "date": "2023-07-24",
+            "deadline": "2023-07-24",
+            "links": {
+                "": "https://www.youtube.com/watch?v=XFynblkouZ4"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 26,
+            "title": "Diagram #2 - OOP Practice",
+            "date": "2023-07-24",
+            "deadline": "2023-07-24",
+            "links": {
+                "": "https://www.youtube.com/watch?v=f1bnbit3Rlo"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 27,
+            "title": "Diagram #3 - OOP Practice",
+            "date": "2023-07-24",
+            "deadline": "2023-07-24",
+            "links": {
+                "": "https://www.youtube.com/watch?v=YfprfyavgzY"
+            }
+        }
+    ],
+    "2023-07-25": [
+        {
+            "kind": "LS",
+            "n": 24,
+            "title": "Introduction to Recursion",
+            "date": "2023-07-25",
+            "deadline": "2023-07-25",
+            "links": {
+                "": "https://www.youtube.com/watch?v=nVv7RDDtwdg"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 8,
+            "title": "Recursion: Linked List Utils (Due Thursday 7/27)",
+            "date": "2023-07-25",
+            "deadline": "2023-07-27",
+            "links": {
+                "": "/exercises/ex11.html"
+            }
+        }
+    ],
+    "2023-07-26": [
+        {
+            "kind": "CQ",
+            "n": 28,
+            "title": "Diagram #1 - Recursive Function Call",
+            "date": "2023-07-26",
+            "deadline": "2023-07-26",
+            "links": {
+                "": "https://www.youtube.com/watch?v=tn5d3SxWWxc"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 29,
+            "title": "Diagram #2 - Linked List Processing with Recursive Functions",
+            "date": "2023-07-26",
+            "deadline": "2023-07-26",
+            "links": {
+                "": "https://www.youtube.com/watch?v=qqJKcmPbgCY"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 30,
+            "title": "Diagram #3 - Linked List Building with a Recursive Function",
+            "date": "2023-07-26",
+            "deadline": "2023-07-26",
+            "links": {
+                "": "https://www.youtube.com/watch?v=SDZRv01oyVk"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 25,
+            "title": "NumPy and Pandas",
+            "date": "2023-07-26",
+            "deadline": "2023-07-26",
+            "links": {
+                "See Gradescope": "https://gradescope.com"
+            }
+        }
+    ],
     "2023-07-27": [],
     "2023-07-31": [
         {
